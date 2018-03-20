@@ -28,39 +28,39 @@ A list of publicly available resources for everything your heart desires...
 
 
 
-### Consensus Algorithms
+## Consensus Algorithms
 
 
 
-### Mining
+## Mining
 
 
 
-### Wallets
+## Wallets
 
 
 
-### Privacy/Anonymity
+## Privacy/Anonymity
 
 
 
-### Private Blockchains
+## Private Blockchains
 
 
 
-### A Little History
+## A Little History
 
 
 
-### Whitepapers
+## Whitepapers
 * [The Least Important One](https://bitcoin.org/bitcoin.pdf)
 
 
 
-### Talks, Documentaries
+## Talks, Documentaries
 
 
 
-### Medium, Twitter, YouTube, Podcasts
+## Medium, Twitter, YouTube, Podcasts
 
 
