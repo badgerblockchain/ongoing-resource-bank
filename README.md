@@ -4,7 +4,7 @@ A list of publicly available resources for everything your heart desires...
 # Contents
 
 - [Bitcoin](#bitcoin)
-- [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
+- [Ethereum & Smart Contracts](#ethereum-and-smart-contracts)
 - [Scaling](#scale)
 - [Consensus Algorithms](#CA)
 - [Mining](#Mining)
@@ -24,7 +24,7 @@ A list of publicly available resources for everything your heart desires...
 
 
 
-### Ethereum/Smart Contracts
+### Ethereum & Smart Contracts
 
 
 
