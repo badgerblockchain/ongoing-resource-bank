@@ -2,17 +2,20 @@
 A list of publicly available resources for everything your heart desires...
 # Contents
 
-- [White Papers](#white-papers)
 - [Bitcoin](#bitcoin)
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
+- [Scaling](#scale)
 - [Privacy/Anonymity](#all-things-privacy)
 - [Private Blockchains](#private-blockchains)
+- [Consensus Algorithms](#CA)
+- [Wallets](#wallets)
+- [A Little History](#history)
+- [White Papers](#white-papers)
 
 - [Documentaries](#documentaries)
 - [Talks](#talks)
-- [Twitter Accounts, Youtube Channels, and Social Media](#social-media-channels)
+- [Medium, Twitter, & Youtube](#social-media-channels)
 
-### White Paper
 
 
 ### Bitcoin
@@ -27,10 +30,26 @@ A list of publicly available resources for everything your heart desires...
 ### Private Blockchains
 
 
+### Consensus Algorithms
+
+
+
+### Wallets
+
+
+
+### A Little History
+
+
+
+### Whitepapers
+
+
+
 ### Documentaries
 
 
 ### Talks
 
 
-### Channels
+### Medium, Twitter, YouTube
