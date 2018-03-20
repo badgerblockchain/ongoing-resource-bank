@@ -53,7 +53,7 @@ A list of publicly available resources for everything your heart desires...
 
 
 ### Whitepapers
-* [The Least Important One] (https://bitcoin.org/bitcoin.pdf)
+* [The Least Important One](https://bitcoin.org/bitcoin.pdf)
 
 
 
