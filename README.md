@@ -6,16 +6,15 @@ A list of publicly available resources for everything your heart desires...
 - [Bitcoin](#bitcoin)
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
 - [Scaling](#scale)
-- [Privacy/Anonymity](#all-things-privacy)
-- [Private Blockchains](#private-blockchains)
 - [Consensus Algorithms](#CA)
 - [Mining](#Mining)
 - [Wallets](#wallets)
+- [Privacy/Anonymity](#all-things-privacy)
+- [Enterprise Blockchains](#private-blockchains)
 - [A Little History](#history)
 - [White Papers](#white-papers)
 
-- [Documentaries](#docs)
-- [Talks](#talks)
+- [Talks, Documentaries](#docs)
 - [Medium, Twitter, Youtube, & Podcasts](#channels)
 - [Resources in Madison](#social-media-channels)
 
@@ -24,13 +23,9 @@ A list of publicly available resources for everything your heart desires...
 ### Bitcoin
 
 
+
 ### Ethereum/Smart Contracts
 
-
-### Privacy/Anonymity
-
-
-### Private Blockchains
 
 
 ### Consensus Algorithms
@@ -45,18 +40,25 @@ A list of publicly available resources for everything your heart desires...
 
 
 
+### Privacy/Anonymity
+
+
+
+### Private Blockchains
+
+
+
 ### A Little History
 
 
 
 ### Whitepapers
+* [The Least Important One] (https://bitcoin.org/bitcoin.pdf)
 
 
 
-### Documentaries
+### Talks, Documentaries
 
-
-### Talks
 
 
 ### Medium, Twitter, YouTube, Podcasts
