@@ -8,13 +8,15 @@ A list of publicly available resources for everything your heart desires...
 - [Privacy/Anonymity](#all-things-privacy)
 - [Private Blockchains](#private-blockchains)
 - [Consensus Algorithms](#CA)
+- [Mining](#Mining)
 - [Wallets](#wallets)
 - [A Little History](#history)
 - [White Papers](#white-papers)
 
-- [Documentaries](#documentaries)
+- [Documentaries](#docs)
 - [Talks](#talks)
-- [Medium, Twitter, & Youtube](#social-media-channels)
+- [Medium, Twitter,Youtube, & Podcasts](#channels)
+- [Resources in Madison](#social-media-channels)
 
 
 
@@ -31,6 +33,10 @@ A list of publicly available resources for everything your heart desires...
 
 
 ### Consensus Algorithms
+
+
+
+### Mining
 
 
 
@@ -52,4 +58,6 @@ A list of publicly available resources for everything your heart desires...
 ### Talks
 
 
-### Medium, Twitter, YouTube
+### Medium, Twitter, YouTube, Podcasts
+
+
