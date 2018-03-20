@@ -1,5 +1,6 @@
 # Resource-Bank
 A list of publicly available resources for everything your heart desires...
+
 # Contents
 
 - [Bitcoin](#bitcoin)
@@ -15,7 +16,7 @@ A list of publicly available resources for everything your heart desires...
 
 - [Documentaries](#docs)
 - [Talks](#talks)
-- [Medium, Twitter,Youtube, & Podcasts](#channels)
+- [Medium, Twitter, Youtube, & Podcasts](#channels)
 - [Resources in Madison](#social-media-channels)
 
 
