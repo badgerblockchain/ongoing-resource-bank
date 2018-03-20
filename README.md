@@ -29,7 +29,9 @@ A list of publicly available resources for everything your heart desires...
 
 
 ## Consensus Algorithms
-
+#### Proof of Work
+#### Proof of Steak
+#### Proof of ...
 
 
 ## Mining
@@ -41,19 +43,28 @@ A list of publicly available resources for everything your heart desires...
 
 
 ## Privacy/Anonymity
+* Monero
+* Zcash
+* CoinJoin
+* TumbleBit
+* MimbleWimble
 
 
 
-## Private Blockchains
-
+## Enterprise Blockchains
+* R3
+* Hyperledger
+* 
 
 
 ## A Little History
-
+*
 
 
 ## Whitepapers
 * [The Least Important One](https://bitcoin.org/bitcoin.pdf)
+* [Ethereum's Yellow](http://gavwood.com/paper.pdf)
+* Ripple
 
 
 
