@@ -108,7 +108,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * SALT - [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) / [Website](https://www.saltlending.com/)
 
 | Coin/Token    | Paper    | Website | Sentence Description |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - | | |
 | Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | - | | |
 
