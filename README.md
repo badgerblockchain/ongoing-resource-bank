@@ -61,8 +61,8 @@ A list of publicly available resources for everything your heart desires...
 
 
 ## Enterprise Blockchains
-* R3
-* Hyperledger
+* R3's Corda
+* HyperLedger
 * 
 
 
@@ -91,7 +91,7 @@ A list of publicly available resources for everything your heart desires...
 * Tether - [Whitepaper]() / [Website](https://tether.to/)
 * Ethereum Classic - [Whitepaper]() / [Website](https://ethereumclassic.github.io/)
 * VeChain - [Whitepaper]() / [Website](https://www.vechain.org/)
-* Qtum - [Whitepaper]() / [Website](https://qtum.org/en/)
+* Qtum - [Whitepaper](https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf) / [Website](https://qtum.org/en/)
 * Binance - [Whitepaper]() / [Website](https://www.binance.com/)
 * ICON - [Whitepaper](https://icon.foundation/resources/whitepaper/ICON-Whitepaper-EN-Draft.pdf) / [Website](https://icon.foundation/)
 * NEM - [Whitepaper]() / [Website](https://nem.io/)
@@ -100,17 +100,21 @@ A list of publicly available resources for everything your heart desires...
 * OmiseGO - [Whitepaper]() / [Website](https://omisego.network/)
 * Nano - [Whitepaper]() / [Website](https://nano.org/en)
 * Bitcoin Gold - [Whitepaper]() / [Website](https://bitcoingold.org/)
-* Siacoin - [Whitepaper]() / [Website](https://sia.tech/)
+* Siacoin - [Whitepaper](https://sia.tech/sia.pdf) / [Website](https://sia.tech/)
+* Golem - [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) / [Website](https://golem.network/)
 * Dogecoin - [Whitepaper]() / [Website](http://dogecoin.com/)
-* Augur - [Whitepaper]() / [Website](http://www.augur.net/)
+* Augur - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf) / [Website](http://www.augur.net/)
 * Decred - [Whitepaper](https://decred.org/research/buterin2014.pdf) / [Website](https://www.decred.org/)
-* 0x - [Whitepaper]() / [Website](https://0xproject.com/)
-* Golem - [Whitepaper]() / [Website](https://golem.network/)
-* SALT - [Whitepaper]() / [Website](https://www.saltlending.com/)
+* 0x - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) / [Website](https://0xproject.com/)
+* SALT - [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) / [Website](https://www.saltlending.com/)
 
 #### Additional Protocols
 * RSK (rootstock) - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) / [Website](https://www.rsk.co/)
 * MimbleWimble
+* Bulletproofs 
+* SNARKS
+* STARKS
+* 
 
 #### Significant Articles
 * Fat Protocol - [Post](http://www.usv.com/blog/fat-protocols)
@@ -123,7 +127,7 @@ A list of publicly available resources for everything your heart desires...
 
 
 ## Medium, Twitter, YouTube, Podcasts
-* 
+* Andreas Antonopoulos - [Twitter](https://twitter.com/aantonop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) / [Youtube](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
 
 
 ## Resources in Madison
