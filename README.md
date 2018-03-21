@@ -6,20 +6,36 @@ A list of publicly available resources for everything your heart desires... Plea
     * Hard & Soft Forks
     
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
-    * Web3
+   * Smart Contracts
+   * EVM
+   * Gas
+   * Web3
        * IPFS
        * OpenBazaar
        * Golem
    * Cryptokitties
         
 - [Consensus Algorithms](#consensus-algorithms)
-    * CAP 
+    * FLP, CAP, and Byzantine Generals Problem
+    * Proof of Work
+    * Proof of Stake
+    * Proof of ...
+    * DAGs
+    
     
     
 - [Mining](#mining)
+   * What are Miners solving
+   * Block Reward
+   * Orphan & Stale Blocks
+   * ASIC Miners
+   * Mining Pools
 
 
 - [Wallets](#wallets)
+   * Private/Public Key Cryptography
+   * Types of Wallets
+      * Multi-Sig
 
 
 - [Scaling](#scaling)
@@ -44,6 +60,7 @@ A list of publicly available resources for everything your heart desires... Plea
     * Eclipse Attack
     * DAO Hack
     * Parity Hack
+    * Nothing-at-Stake
     
 - [Enterprise Blockchains](#enterprise-blockchains)
     * R3's Corda
@@ -54,8 +71,7 @@ A list of publicly available resources for everything your heart desires... Plea
     * EEA
     
 - [Before Bitcoin](#before-bitcoin)
-- [Governance]
-    * Tezos
+
 
 
 - [Whitepapers and Websites](#whitepapers-and-websites)
@@ -81,7 +97,7 @@ A list of publicly available resources for everything your heart desires... Plea
 ### Proof of Work
 
 
-### Proof of Steak
+### Proof of Stake
 Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
 
 #### DPoS
@@ -89,7 +105,8 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 ### Proof of ...
 #### Burn
 #### Capacity
-#### 
+#### Space
+#### Paxos and Raft
 
 ### DAGs
 #### Tangle
@@ -207,6 +224,7 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 * STARKS - 
 * HashGraph
 * Algorand
+* Tezos
 
 
 ### Significant Articles 
