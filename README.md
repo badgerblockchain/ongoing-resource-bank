@@ -74,7 +74,6 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 ## Whitepapers/Websites
 ### Crypto's
-* Bitcoin - [Whitepaper](https://bitcoin.org/bitcoin.pdf) 
 * Ethereum - [Yellowpaper](http://gavwood.com/paper.pdf) / [Website](https://www.ethereum.org/)
 * Ripple - [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) / [Website](https://ripple.com/)
 * Litecoin - [Website](https://litecoin.org/)
@@ -109,11 +108,11 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 | Coin/Token    | Whitepaper    | Website | Sentence Description |
 | ------------- | ------------- | ------------- | ------------- |
-| Bitcoin  | https://bitcoin.org/bitcoin.pdf) | - | |
-| Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | - | |
-| Ripple | [Yellowpaper](http://gavwood.com/paper.pdf) | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
+| Bitcoin  | Whitepaper(https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
+| Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [Website](https://www.ethereum.org/) | |
+| Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [Website](https://ripple.com/) | |
+| Bitcoin Cash | - | [Website](https://www.bitcoincash.org/) | |
+| Litecoin | - | [Website](https://litecoin.org/) | |
 | Bitcoin Cash | [Whitepaper]() | - | |
 | Bitcoin Cash | [Whitepaper]() | - | |
 | Bitcoin Cash | [Whitepaper]() | - | |
