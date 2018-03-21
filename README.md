@@ -148,17 +148,17 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [ethereum.org](https://www.ethereum.org/) | Programmable Money |
 | 0x | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) | [0xproject.com](https://0xproject.com/) | Decentralized Exchange |
 | Augur | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf) | [augur.net](http://www.augur.net/) | Decentralized Prediction Market |
-| Basic Attention Token | [Whitepaper](https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf) | [basicattentiontoken.org](https://basicattentiontoken.org/) | Blockchain-Based Digital Advertising |
+| BAT | [Whitepaper](https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf) | [basicattentiontoken.org](https://basicattentiontoken.org/) | Blockchain-Based Digital Advertising |
 | Binance | [Whitepaper](https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf) | [binance.com](https://www.binance.com/) | Reduce Trading Fees on Binance |
 | Bitcoin Cash | - | [bitcoincash.org](https://www.bitcoincash.org/) | Bitcoin Fork w/ 8MB size blocks|
-| Bitcoin Private | - | [btcprivate.org](https://btcprivate.org/) | Bitcoin Fork w/ zkSNARKS|
+| Bitcoin Private | [Whitepaper](https://btcprivate.org/whitepaper.pdf) | [btcprivate.org](https://btcprivate.org/) | Bitcoin Fork w/ zkSNARKS|
 | Bitcoin Gold | [Whitepaper](https://bitcoingold.org/wp-content/uploads/2017/10/BitcoinGold-Roadmap.pdf) | [bitcoingold.org](https://bitcoingold.org/) | Bitcoin + ASIC resistant + Equihash |
 | Bytecoin | [Whitepaper](https://bytecoin.org/resources/whitepaper.pdf) | [bytecoin.org](https://bytecoin.org/) |  |
 | Cardano | [Whitepaper](https://whycardano.com/?__hstc=64163184.86ec57e5f877b33495b4d05f89235f77.1520832501492.1520832501492.1521597341669.2&__hssc=64163184.2.1521597341669&__hsfp=2043253899) |  [cardano.org](https://www.cardano.org/en/home/)| 3rd gen crypto + academics |
 | DASH | [Whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper) | [dash.org](https://www.dash.org/) | Bitcoin + Privacy and new Governance|
 | Decred | [Whitepaper](https://decred.org/research/buterin2014.pdf) | [decred.org](https://www.decred.org/) | Bitcoin + alt gov model |
 | Dogecoin | [Whitepaper]() | [dogecoin.com](http://dogecoin.com/) | Much Love! |
-| DigixDAO | [Whitepaper]() | [digix.global](https://digix.global/dgd/) |  |
+| DigixDAO | [Whitepaper]() | [digix.global](https://digix.global/dgd/) | Crowdfunding |
 | EOS | [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/) | 3rd gen crypto on WebAssembly |
 | Ethereum Classic | [Whitepaper](https://coss.io/documents/white-papers/ethereum-classic.pdf) | [ethereumclassic.github.io](https://ethereumclassic.github.io/) | Ethereum's Fork from DAO Attack |
 | Golem | [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) | [golem.network](https://golem.network/) | Market for idle computer power |
