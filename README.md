@@ -25,7 +25,7 @@ A list of publicly available resources for everything your heart desires...
 
 
 ## Ethereum & Smart Contracts
-* [Ethereum's Yellowpaper](http://gavwood.com/paper.pdf)
+* [Yellowpaper](http://gavwood.com/paper.pdf)
 
 
 ## Consensus Algorithms
@@ -67,6 +67,7 @@ A list of publicly available resources for everything your heart desires...
 
 
 ## Whitepapers/Websites
+#### Crypto's
 * The Least Important One - [Whitepaper](https://bitcoin.org/bitcoin.pdf) 
 * Ethereum - [Yellowpaper](http://gavwood.com/paper.pdf) / [Website](https://www.ethereum.org/)
 * Ripple - [Whitepaper]() / [Website](https://ripple.com/)
@@ -76,7 +77,7 @@ A list of publicly available resources for everything your heart desires...
 * EOS - [Whitepaper]() / [Website](https://eos.io/)
 * Monero - [Whitepaper]() / [Website](https://getmonero.org/)
 * Zcash - [Whitepaper]() / [Website](https://z.cash/)
-* Stellar - [Whitepaper]() / [Website](https://www.stellar.org/)
+* Stellar - [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) / [Website](https://www.stellar.org/)
 * NEO - [Whitepaper]() / [Website](https://neo.org/)
 * IOTA - [Whitepaper]() / [Website](https://iota.org/)
 * DASH - [Whitepaper]() / [Website](https://www.dash.org/)
@@ -99,6 +100,8 @@ A list of publicly available resources for everything your heart desires...
 * 0x - [Whitepaper]() / [Website](https://0xproject.com/)
 * Golem - [Whitepaper]() / [Website](https://golem.network/)
 * SALT - [Whitepaper]() / [Website](https://www.saltlending.com/)
+
+#### Additional Protocols
 
 
 
