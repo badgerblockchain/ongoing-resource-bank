@@ -66,10 +66,10 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 
 ## Before Bitcoin
-* Nick Szabo's Bit Gold - [Article](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
-* Wei Dei's B Money - [Post](http://www.weidai.com/bmoney.txt)
-* Adam Back's HashCash - [PDF](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
-* Hal Finney's RPOW - [Post](https://cryptome.org/rpow.htm)
+* Nick Szabo's [Bit Gold](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
+* Wei Dei's [B Money](http://www.weidai.com/bmoney.txt)
+* Adam Back's [HashCash](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
+* Hal Finney's [RPOW](https://cryptome.org/rpow.htm)
 
 
 ## Whitepapers/Websites
@@ -133,8 +133,20 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 
 
 ## Medium, Twitter, YouTube, & Podcast Channels
+### Speakers
 * Andreas Antonopoulos - [Twitter](https://twitter.com/aantonop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) / [Youtube](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
-* 
+* Andrew Poelstra - 
+* Evan Schwartz
+* Jameson Lopp
+* Jeremy Gardner
+* Juan Benet
+* Silvio Micali
+* Will Warren
+
+
+
+S
+
 
 
 ## Resources in Madison
