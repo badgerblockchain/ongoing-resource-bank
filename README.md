@@ -67,7 +67,7 @@ A list of publicly available resources for everything your heart desires...
 
 
 ## Whitepapers/Websites
-* The Least Important One[Whitepaper](https://bitcoin.org/bitcoin.pdf) / [Website]()
+* The Least Important One - [Whitepaper](https://bitcoin.org/bitcoin.pdf) / [Website]()
 * Ethereum - [Yellowpaper](http://gavwood.com/paper.pdf) / [Website](https://www.ethereum.org/)
 * Ripple - [Whitepaper]() / [Website]()
 * Litecoin - [Whitepaper]() / [Website](https://litecoin.org/)
