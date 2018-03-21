@@ -1,7 +1,7 @@
 # Resource-Bank
 A list of publicly available resources for everything your heart desires...
 
-# Contents
+# Table of Contents
 
 - [Bitcoin](#bitcoin)
 - [Ethereum & Smart Contracts](#ethereum-&-smart-contracts)
