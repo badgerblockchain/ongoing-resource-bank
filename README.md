@@ -63,7 +63,9 @@ A list of publicly available resources for everything your heart desires...
 
 
 ## A Little History
-*
+* Nick Szabo's Bit Gold - [Article](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
+* Wei Dei's B Money - [Post](http://www.weidai.com/bmoney.txt)
+* Adam Back's HashCash - [PDF](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
 
 
 ## Whitepapers/Websites
@@ -96,14 +98,20 @@ A list of publicly available resources for everything your heart desires...
 * Siacoin - [Whitepaper]() / [Website](https://sia.tech/)
 * Dogecoin - [Whitepaper]() / [Website](http://dogecoin.com/)
 * Augur - [Whitepaper]() / [Website](http://www.augur.net/)
-* Decred - [Whitepaper]() / [Website](https://www.decred.org/)
+* Decred - [Whitepaper](https://decred.org/research/buterin2014.pdf) / [Website](https://www.decred.org/)
 * 0x - [Whitepaper]() / [Website](https://0xproject.com/)
 * Golem - [Whitepaper]() / [Website](https://golem.network/)
 * SALT - [Whitepaper]() / [Website](https://www.saltlending.com/)
 
 #### Additional Protocols
+* RSK (rootstock) - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) / [Website](https://www.rsk.co/)
+* MimbleWimble
 
-
+#### Articles
+* Bit Gold - [Article](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
+* B Money - [Post](http://www.weidai.com/bmoney.txt)
+* HashCash - [PDF](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
+* Fat Protocol - [Post](http://www.usv.com/blog/fat-protocols)
 
 
 
