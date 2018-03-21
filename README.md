@@ -78,12 +78,14 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * JP Morgan's Quorum
 
 
-## Before Bitcoin
+## Before the rise of cryptocurrencies...
 * Nick Szabo's [Bit Gold](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
 * Wei Dei's [B Money](http://www.weidai.com/bmoney.txt)
 * Adam Back's [HashCash](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
 * Hal Finney's [RPOW](https://cryptome.org/rpow.htm)
 * David Chaum Digicash
+* Silk Road
+* Mark Kerpeles
 
 
 ## Whitepapers and Websites
@@ -94,6 +96,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [ethereum.org](https://www.ethereum.org/) | Programmable Money |
 | 0x | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) | [0xproject.com](https://0xproject.com/) | Decentralized Exchange |
 | Augur | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf) | [augur.net](http://www.augur.net/) | Decentralized Prediction Market |
+| Basic Attention Token | [Whitepaper](https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf) | [basicattentiontoken.org](https://basicattentiontoken.org/) | Blockchain-Based Digital Advertising |
 | Binance | [Whitepaper](https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf) | [binance.com](https://www.binance.com/) | Reduce Trading Fees on Binance |
 | Bitcoin Cash | - | [bitcoincash.org](https://www.bitcoincash.org/) | Bitcoin Fork w/ 8MB size blocks|
 | Bitcoin Private | - | [btcprivate.org](https://btcprivate.org/) | Bitcoin Fork w/ zkSNARKS|
