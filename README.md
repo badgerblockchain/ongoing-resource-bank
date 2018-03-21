@@ -100,9 +100,8 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * Adam Back's [HashCash](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
 * Hal Finney's [RPOW](https://cryptome.org/rpow.htm)
 * David Chaum Digicash
-* Silk Road
-* Mark Kerpeles
-
+* Silk Road & The Silk Road
+* Mt. GOX
 
 ## Whitepapers and Websites
 ### Crypto's
