@@ -107,12 +107,10 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * 0x - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) / [Website](https://0xproject.com/)
 * SALT - [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) / [Website](https://www.saltlending.com/)
 
-/***
-| __Animals__ | __Sports__ | __Fruits__ |
-|-------------|------------|------------|
-| Cat         | Soccer     | Apple      |
-| Dog         | Basketball | Orange     |
-***/
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ### Additional Protocols
