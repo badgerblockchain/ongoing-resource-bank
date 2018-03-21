@@ -75,7 +75,15 @@ A list of publicly available resources for everything your heart desires... Plea
     * ConsenSys
     * EEA
     
-- [Before Bitcoin](#before-bitcoin)
+- [Before the Rise of Cryptocurrencies...](#before-bitcoin)
+   * Silk Road
+   * Mt. GOX
+   * David Chaum's Digicash
+   * Nick Szabo's [Bit Gold](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
+   * Wei Dei's [B Money](http://www.weidai.com/bmoney.txt)
+   * Adam Back's [HashCash](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
+   * Hal Finney's [RPOW](https://cryptome.org/rpow.htm)
+   
 
 
 
@@ -127,18 +135,26 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 
 ## Scaling
-### Lightning
-### SegWit
-### Raiden
-### Caespar 
-### Plasma
-### Sharding
-### Tendermint
+### Vertical (Improving Machine Power)
+#### Difficulty
+#### Block Size Debate
+#### SegWit
+#### Lightning and Payment Channels
+
+### Horizontal (Increasing # of Machines)
+#### Sharding
+#### Sidechains
+      
+### Ethereum's Proposals
+#### Raiden
+#### Plasma
+#### Caespar
 
 
 
 
 ## Privacy and Anonymity
+* KYC/AML
 * [Monero](https://getmonero.org/resources/about/)
 * [Zcash](https://z.cash/)
 * CoinJoin
@@ -156,14 +172,17 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * R3's Corda
 * HyperLedger
 * JP Morgan's Quorum
+* Everledger
+* ConsenSys
+* EEA
 
 
-## Before the rise of cryptocurrencies...
+## Before the Rise of Cryptocurrencies...
+* David Chaum Digicash
 * Nick Szabo's [Bit Gold](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
 * Wei Dei's [B Money](http://www.weidai.com/bmoney.txt)
 * Adam Back's [HashCash](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
 * Hal Finney's [RPOW](https://cryptome.org/rpow.htm)
-* David Chaum Digicash
 * Silk Road & The Silk Road
 * Mt. GOX
 
