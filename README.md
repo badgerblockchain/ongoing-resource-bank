@@ -14,7 +14,7 @@ A list of publicly available resources for everything your heart desires...
 - [Before Bitcoin](#before-bitcoin)
 - [Whitepapers and Websites](#whitepapers-and-websites)
 - [Talks and Documentaries](#talks-and-documentaries)
-- [Medium, Twitter, Youtube, & Podcast Channels](#medium-twitter-youtube-and-podcasts-channels)
+- [Medium, Twitter, Youtube, & Podcast Channels](#medium-twitter-youtube-and-podcast-channels)
 - [Resources in Madison](#resources-in-madison)
 
 
@@ -152,7 +152,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 ## Talks and Documentaries
 
 
-## Medium, Twitter, YouTube, and Podcast Channels
+## Medium, Twitter, YouTube, and Podcast Channels 
 ### Speakers
 * Andreas Antonopoulos - [Twitter](https://twitter.com/aantonop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) / [Youtube](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
 * Andrew Poelstra - 
