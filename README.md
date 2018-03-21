@@ -163,10 +163,10 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 ### Medium
 
 
-### YouTube 
+### YouTube Channels
 
 
-### Podcast Channels
+### Podcasts
 * [a16z Podcast](https://a16z.com/podcasts/)
 * [Epicenter](https://epicenter.tv/)
 * [Invest like the Best](http://investorfieldguide.com/podcast/)
