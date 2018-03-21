@@ -116,10 +116,12 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Bitcoin Cash | - | [bitcoincash.org](https://www.bitcoincash.org/) | Bitcoin Fork w/ 8MB size blocks|
 | Bitcoin Private | - | [btcprivate.org](https://btcprivate.org/) | Bitcoin Fork w/ zkSNARKS|
 | Bitcoin Gold | [Whitepaper](https://bitcoingold.org/wp-content/uploads/2017/10/BitcoinGold-Roadmap.pdf) | [bitcoingold.org](https://bitcoingold.org/) | Bitcoin + ASIC resistant + Equihash |
+| Bytecoin | [Whitepaper](https://bytecoin.org/resources/whitepaper.pdf) | [bytecoin.org](https://bytecoin.org/) |  |
 | Cardano | [Whitepaper](https://whycardano.com/?__hstc=64163184.86ec57e5f877b33495b4d05f89235f77.1520832501492.1520832501492.1521597341669.2&__hssc=64163184.2.1521597341669&__hsfp=2043253899) |  [cardano.org](https://www.cardano.org/en/home/)| 3rd gen crypto + academics |
 | DASH | [Whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper) | [dash.org](https://www.dash.org/) | Bitcoin + Privacy and new Governance|
 | Decred | [Whitepaper](https://decred.org/research/buterin2014.pdf) | [decred.org](https://www.decred.org/) | Bitcoin + alt gov model |
 | Dogecoin | [Whitepaper]() | [dogecoin.com](http://dogecoin.com/) | Much Love! |
+| DigixDAO | [Whitepaper](file:///Users/brenfife/Downloads/WhitePaper.pdf) | [digix.global](https://digix.global/dgd/) |  |
 | EOS | [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/) | 3rd gen crypto on WebAssembly |
 | Ethereum Classic | [Whitepaper](https://coss.io/documents/white-papers/ethereum-classic.pdf) | [ethereumclassic.github.io](https://ethereumclassic.github.io/) | Ethereum's Fork from DAO Attack |
 | Golem | [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) | [golem.network](https://golem.network/) | Market for idle computer power |
@@ -135,9 +137,11 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | OmiseGO | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/OmiseGO-Whitepaper.pdf) | [omisego.network](https://omisego.network/) | |
 | Populous | [Whitepaper](https://populous.co/populous_whitepaper.pdf) | [qtum.org](https://populous.co/) | Invoice trading|
 | Qtum | [Whitepaper](https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf) | [qtum.org](https://qtum.org/en/) | |
+| RChain | [Whitepaper](https://media.readthedocs.org/pdf/rchain-architecture/stable/rchain-architecture.pdf) | [rchain.coop](https://www.rchain.coop/) | .  |
 | Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | Bitcoin for Banks |
 | SALT | [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) | [saltlending.com](https://www.saltlending.com/) | Cryptocurrency Backed Loans |
 | Siacoin | [Whitepaper](https://sia.tech/sia.pdf) | [sia.tech](https://sia.tech/) | |
+| Stratis | [Whitepaper](https://stratisplatform.com/files/Stratis_Whitepaper.pdf) | [stratisplatform.com](https://stratisplatform.com/) | . |
 | Stellar | [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) | [stellar.org](https://www.stellar.org/) | Ripple's speedy little brother|
 | Steem | [Whitepaper](https://steem.io/SteemWhitePaper.pdf) | [steem.com](https://steemit.com/) | Decentralized Social Media |
 | TenX | [Whitepaper](https://www.tenx.tech/whitepaper/tenx_whitepaper_final.pdf) | [tenx.tech](https://www.tenx.tech/) | Crypto Credit Card |
