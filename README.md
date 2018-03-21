@@ -6,7 +6,7 @@ A list of publicly available resources for everything your heart desires...
 - [Bitcoin](#bitcoin)
 - [Ethereum & Smart Contracts](#ethereum-&-smart-contracts)
 - [Consensus Algorithms](#Consensus Algorithms)
-- [Mining](#Mining)
+- [Mining](#mining)
 - [Wallets](#wallets)
 - [Scaling](#scaling)
 - [Privacy/Anonymity](#privacy/anonymity)
