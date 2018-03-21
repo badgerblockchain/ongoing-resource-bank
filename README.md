@@ -111,6 +111,13 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 ## Privacy and Anonymity
 * KYC/AML
 * [Monero](https://getmonero.org/resources/about/)
+    * [Fluffy Blocks](https://getmonero.org/resources/moneropedia/fluffyblocks.html)
+    * [Kovri](https://getmonero.org/resources/moneropedia/kovri.html)
+    * [Pedersen Commitment](https://getmonero.org/resources/moneropedia/pedersen-commitment.html)
+    * [Ring CT](https://getmonero.org/resources/moneropedia/ringCT.html)
+    * [Ring Signature](https://getmonero.org/resources/moneropedia/ringsignatures.html)
+    * [Stealth Address](https://getmonero.org/resources/moneropedia/stealthaddress.html)
+    * [Tail Emmission](https://getmonero.org/resources/moneropedia/tail-emission.html)
 
 * [Zcash](https://z.cash/)
 * CoinJoin
@@ -166,17 +173,18 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Ethereum Classic | [Whitepaper](https://coss.io/documents/white-papers/ethereum-classic.pdf) | [ethereumclassic.github.io](https://ethereumclassic.github.io/) | Ethereum's Fork from DAO Attack |
 | Golem | [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) | [golem.network](https://golem.network/) | Market place for idle computer power |
 | ICON | [Whitepaper](https://icon.foundation/resources/whitepaper/ICON-Whitepaper-EN-Draft.pdf) | [icon.foundation](https://icon.foundation/) | South Korea's Ethereum |
-| IOTA | [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) | [iota.org](https://iota.org/) | DAG |
+| IOTA | [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) | [iota.org](https://iota.org/) | DAG + IoT |
 | LISK | [Whitepaper]() | [lisk.io](https://lisk.io/) | Javascript + sidechains |
-| Litecoin | - | [litecoin.org](https://litecoin.org/) | Bitcoin's but speedy |
+| Litecoin | - | [litecoin.org](https://litecoin.org/) | Speedy Bitcoin |
 | Loopring | [Whitepaper](https://github.com/Loopring/whitepaper/blob/master/en_whitepaper.pdf) | [loopring.org](https://loopring.org/en/index.html) | Decetralized Exchange |
+| Monacoin |  | [monacoin.org](https://monacoin.org/) | Japan's Dogecoin |
 | Monero | - | [getmonero.org](https://getmonero.org/) | Privacy altoin |
 | Nano | [Whitepaper](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf) | [nano.org](https://nano.org/en) | |
 | NEM | [Whitepaper](https://nem.io/wp-content/themes/nem/files/NEM_techRef.pdf) | [nem.io](https://nem.io/) | |
 | NEO | [Whitepaper](http://docs.neo.org/en-us/) | [neo.org](https://neo.org/) | China's Ethereum |
 | OmiseGO | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/OmiseGO-Whitepaper.pdf) | [omisego.network](https://omisego.network/) | |
 | Populous | [Whitepaper](https://populous.co/populous_whitepaper.pdf) | [qtum.org](https://populous.co/) | Invoice trading |
-| Qtum | [Whitepaper](https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf) | [qtum.org](https://qtum.org/en/) | |
+| Qtum | [Whitepaper](https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf) | [qtum.org](https://qtum.org/en/) | Merging Bitcoin and Ethereum |
 | RChain | [Whitepaper](https://media.readthedocs.org/pdf/rchain-architecture/stable/rchain-architecture.pdf) | [rchain.coop](https://www.rchain.coop/) | .  |
 | Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | Bitcoin for Banks |
 | SALT | [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) | [saltlending.com](https://www.saltlending.com/) | Cryptocurrency Backed Loans |
@@ -185,11 +193,12 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Stratis | [Whitepaper](https://stratisplatform.com/files/Stratis_Whitepaper.pdf) | [stratisplatform.com](https://stratisplatform.com/) | . |
 | Stellar | [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) | [stellar.org](https://www.stellar.org/) | Ripple's speedy little brother|
 | Steem | [Whitepaper](https://steem.io/SteemWhitePaper.pdf) | [steem.com](https://steemit.com/) | Decentralized Social Media |
+| Storj | [Whitepaper](https://storj.io/storj.pdf) |  | Marketplace for storage space |
 | TenX | [Whitepaper](https://www.tenx.tech/whitepaper/tenx_whitepaper_final.pdf) | [tenx.tech](https://www.tenx.tech/) | Credit Card for Cryptocurrencies |
 | Tether | [Whitepaper](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) | [tether.to](https://tether.to/) | Stable coin (1 USDS = 1 USD |
-| TRON | - | [tron.network](https://tron.network/en.html) | |
-| VeChain | - | [vechain.org](https://www.vechain.org/) |  |
-| Waltonchain | [Whitepaper](https://www.waltonchain.org/doc/Waltonchain-whitepaper_en_20180208.pdf) | [waltonchain.org](https://www.waltonchain.org/index.html) |  |
+| TRON | - | [tron.network](https://tron.network/en.html) |  |
+| VeChain | - | [vechain.org](https://www.vechain.org/) | Blockchain + Luxury Items |
+| Waltonchain | [Whitepaper](https://www.waltonchain.org/doc/Waltonchain-whitepaper_en_20180208.pdf) | [waltonchain.org](https://www.waltonchain.org/index.html) | IoT on Blockchain |
 | Waves | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | [wavesplatform.com](https://wavesplatform.com/company) | Consulting + Crowdsourcing |
 | Vertcoin | - | [vertcoin.org](https://vertcoin.org/) | |
 | Zcash | - | [z.cash](https://z.cash/) | Shielded (Homomorphically Hidden) Transactions |
