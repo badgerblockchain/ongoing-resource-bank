@@ -14,7 +14,8 @@ A list of publicly available resources for everything your heart desires...
 - [Before Bitcoin](#before-bitcoin)
 - [Whitepapers and Websites](#whitepapers-and-websites)
 - [Talks and Documentaries](#talks-and-documentaries)
-- [Medium, Twitter, Youtube, & Podcast Channels](#medium-twitter-youtube-and-podcast-channels)
+- [Medium, Youtube, and Podcast Channels](#medium-youtube-and-podcast-channels)
+- [Influencers](#influencers)
 - [Resources in Madison](#resources-in-madison)
 
 
@@ -156,15 +157,28 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 ## Talks and Documentaries
 
 
-## Medium, Twitter, YouTube, and Podcast Channels 
-### Influencers
+## Medium, YouTube, and Podcast Channels
+### Medium
+
+
+### YouTube 
+
+
+### Podcast Channels
+
+
+
+
+## Influencers
 * Adam Back
 * Alex Tapscott
+* Amber Baldet - [Twitter](https://twitter.com/AmberBaldet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 * Andreas Antonopoulos - [Twitter](https://twitter.com/aantonop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) / [Youtube](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
 * Andrew Poelstra 
 * Brad Garlinghouse
 * Brian Armstrong 
 * Brock Pierce
+* Cameron Winklevoss
 * Charles Hoskinson
 * Charlie Lee
 * Charlie Shrem
@@ -178,6 +192,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * Gregory Maxwell
 * Hal Finney
 * Jackson Palmer
+* Jamie Dimon
 * Jameson Lopp
 * Jeff Garzik
 * Jeremy Gardner
@@ -196,6 +211,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * Nick Szabo
 * Patrick Byrne
 * Pieter Wuille
+* Richard Heart
 * Roger Ver
 * Satoshi Nakamoto
 * Silvio Micali
@@ -206,6 +222,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * Vitalik Buterin
 * Will Warren
 * Vlad Zamfir
+* Yao Qian
 * Zooko Wilcox
 
 
