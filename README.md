@@ -167,11 +167,11 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 
 
 ### Podcast Channels
-[a16z Podcast](https://a16z.com/podcasts/)
-[Epicenter](https://epicenter.tv/)
-[Invest like the Best](http://investorfieldguide.com/podcast/)
-[The Bitcoin Podcast Network](https://thebitcoinpodcast.com/)
-[Unchained](http://unchainedpodcast.co/)
+* [a16z Podcast](https://a16z.com/podcasts/)
+* [Epicenter](https://epicenter.tv/)
+* [Invest like the Best](http://investorfieldguide.com/podcast/)
+* [The Bitcoin Podcast Network](https://thebitcoinpodcast.com/)
+* [Unchained](http://unchainedpodcast.co/)
 
 
 ## Influencers
