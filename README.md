@@ -9,7 +9,7 @@ A list of publicly available resources for everything your heart desires...
 - [Mining](#mining)
 - [Wallets](#wallets)
 - [Scaling](#scaling)
-- [Privacy/Anonymity](#privacy/anonymity)
+- [Privacy and Anonymity](#privacy-and-anonymity)
 - [Enterprise Blockchains](#enterprise-blockchains)
 - [Before Bitcoin](#before-bitcoin)
 - [White Papers/Websites](#white-papers-/-websites)
@@ -57,13 +57,12 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 ### Caespar 
 ### Plasma
 ### Sharding
-### 
 ### Tendermint
 
 
 
 
-## Privacy/Anonymity
+## Privacy and Anonymity
 * [Monero](https://getmonero.org/resources/about/)
 * [Zcash](https://z.cash/)
 * CoinJoin
