@@ -33,6 +33,7 @@ A list of publicly available resources for everything your heart desires... Plea
 
 ### Proof of Steak
 Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
+
 #### DPoS
 
 ### Proof of ...
@@ -74,6 +75,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 ## Enterprise Blockchains
 * R3's Corda
 * HyperLedger
+* JP Morgan's Quorum
 
 
 ## Before Bitcoin
@@ -165,8 +167,11 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 
 
 ### Podcast Channels
-
-
+[a16z Podcast](https://a16z.com/podcasts/)
+[Epicenter](https://epicenter.tv/)
+[Invest like the Best](http://investorfieldguide.com/podcast/)
+[The Bitcoin Podcast Network](https://thebitcoinpodcast.com/)
+[Unchained](http://unchainedpodcast.co/)
 
 
 ## Influencers
