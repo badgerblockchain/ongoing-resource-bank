@@ -12,10 +12,10 @@ A list of publicly available resources for everything your heart desires...
 - [Privacy and Anonymity](#privacy-and-anonymity)
 - [Enterprise Blockchains](#enterprise-blockchains)
 - [Before Bitcoin](#before-bitcoin)
-- [White Papers/Websites](#white-papers-/-websites)
+- [Whitepapers and Websites](#whitepapers-and-websites)
 - [Talks, Documentaries](#talks,-documentaries)
 - [Medium, Twitter, Youtube, & Podcast Channels](#medium,-twitter,-youtube,-&-podcasts-channels)
-- [Resources in Madison](#social-media-channels)
+- [Resources in Madison](#resources-in-madison)
 
 
 
@@ -83,7 +83,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * Hal Finney's [RPOW](https://cryptome.org/rpow.htm)
 
 
-## Whitepapers/Websites
+## Whitepapers and Websites
 ### Crypto's
 | Coin/Token    | Whitepaper    | Website | Several Word Description |
 | :-------------: | :-------------: | :-------------: | :-------------: |
