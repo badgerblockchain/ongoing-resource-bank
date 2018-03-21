@@ -74,43 +74,11 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 ## Whitepapers/Websites
 ### Crypto's
-* Ethereum - [Yellowpaper](http://gavwood.com/paper.pdf) / [Website](https://www.ethereum.org/)
-* Ripple - [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) / [Website](https://ripple.com/)
-* Litecoin - [Website](https://litecoin.org/)
-* Bitcoin Cash - [Website](https://www.bitcoincash.org/)
-* Cardano - [Whitepaper](https://whycardano.com/?__hstc=64163184.86ec57e5f877b33495b4d05f89235f77.1520832501492.1520832501492.1521597341669.2&__hssc=64163184.2.1521597341669&__hsfp=2043253899) / [Website](https://www.cardano.org/en/home/)
-* EOS - [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) / [eos.io](https://eos.io/)
-* Monero - [Whitepaper]() / [Website](https://getmonero.org/)
-* Zcash - [Whitepaper]() / [Website](https://z.cash/)
-* Stellar - [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) / [Website](https://www.stellar.org/)
-* NEO - [Whitepaper](http://docs.neo.org/en-us/) / [Website](https://neo.org/)
-* IOTA - [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) / [Website](https://iota.org/)
-* DASH - [Whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper) / [Website](https://www.dash.org/)
-* Tether - [Whitepaper](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) / [Website](https://tether.to/)
-* Ethereum Classic - [Whitepaper](https://coss.io/documents/white-papers/ethereum-classic.pdf) / [Website](https://ethereumclassic.github.io/)
-* VeChain - [Whitepaper]() / [Website](https://www.vechain.org/)
-* Qtum - [Whitepaper](https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf) / [Website](https://qtum.org/en/)
-* Binance - [Whitepaper](https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf) / [Website](https://www.binance.com/)
-* ICON - [Whitepaper](https://icon.foundation/resources/whitepaper/ICON-Whitepaper-EN-Draft.pdf) / [Website](https://icon.foundation/)
-* NEM - [Whitepaper](https://nem.io/wp-content/themes/nem/files/NEM_techRef.pdf) / [Website](https://nem.io/)
-* TRON - [Whitepaper]() / [Website](https://tron.network/en.html)
-* LISK - [Whitepaper]() / [Website](https://lisk.io/)
-* OmiseGO - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/OmiseGO-Whitepaper.pdf) / [Website](https://omisego.network/)
-* Nano - [Whitepaper](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf) / [Website](https://nano.org/en)
-* Bitcoin Gold - [Whitepaper](https://bitcoingold.org/wp-content/uploads/2017/10/BitcoinGold-Roadmap.pdf) / [Website](https://bitcoingold.org/)
-* Siacoin - [Whitepaper](https://sia.tech/sia.pdf) / [Website](https://sia.tech/)
-* Golem - [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) / [Website](https://golem.network/)
-* Dogecoin [Website](http://dogecoin.com/)
-* Augur - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf) / [Website](http://www.augur.net/)
-* Decred - [Whitepaper](https://decred.org/research/buterin2014.pdf) / [Website](https://www.decred.org/)
-* 0x - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) / [Website](https://0xproject.com/)
-* SALT - [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) / [Website](https://www.saltlending.com/)
-
 | Coin/Token    | Whitepaper    | Website | Sentence Description |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
 | Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [ethereum.org](https://www.ethereum.org/) | |
-| 0x | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) | - | |
+| 0x | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) | [0xproject.com](https://0xproject.com/) | |
 | Augur | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf) | [augur.net](http://www.augur.net/) | |
 | Binance | [Whitepaper](https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf) | [binance.com](https://www.binance.com/) | |
 | Bitcoin Cash | - | [bitcoincash.org](https://www.bitcoincash.org/) | |
@@ -126,20 +94,20 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | IOTA | [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) | [iota.org](https://iota.org/) | |
 | LISK | [Whitepaper]() | [lisk.io](https://lisk.io/) | |
 | Litecoin | - | [litecoin.org](https://litecoin.org/) | |
-| Monero | [Whitepaper]() | - | |
+| Monero | - | [getmonero.org](https://getmonero.org/) | |
 | Nano | [Whitepaper](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf) | [nano.org](https://nano.org/en) | |
 | NEM | [Whitepaper](https://nem.io/wp-content/themes/nem/files/NEM_techRef.pdf) | [nem.io](https://nem.io/) | |
 | NEO | [Whitepaper](http://docs.neo.org/en-us/) | [neo.org](https://neo.org/) | |
 | OmiseGO | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/OmiseGO-Whitepaper.pdf) | [omisego.network](https://omisego.network/) | |
 | Qtum | [Whitepaper](https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf) | [qtum.org](https://qtum.org/en/) | |
 | Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | |
-| SALT | [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) | - | |
+| SALT | [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) | [saltlending.com](https://www.saltlending.com/) | |
 | Siacoin | [Whitepaper](https://sia.tech/sia.pdf) | [sia.tech](https://sia.tech/) | |
 | Stellar | [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) | [stellar.org](https://www.stellar.org/) | |
 | Tether | [Whitepaper](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) | [tether.to](https://tether.to/) | |
-| TRON | [Whitepaper]() | - | |
-| VeChain | [Whitepaper]() | [vechain.org](https://www.vechain.org/) | |
-| Zcash | [Whitepaper]() | - | |
+| TRON | - | [tron.network](https://tron.network/en.html) | |
+| VeChain | - | [vechain.org](https://www.vechain.org/) | |
+| Zcash | - | [z.cash](https://z.cash/) | |
 
 Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 
