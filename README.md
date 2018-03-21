@@ -239,10 +239,10 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * [Riccardo Spagni](https://twitter.com/fluffypony?lang=en)
 * [Richard Heart](https://twitter.com/RichardHeartWin?lang=en)
 * [Roger Ver](https://twitter.com/rogerkver?lang=en)
-* Satoshi Nakamoto... Not very important... 
-* [Silvio Micali](https://people.csail.mit.edu/silvio/)
+* Satoshi Nakamoto... Not important at all... 
+* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT Professor, Founder of [Algorand](https://www.algorand.com/))
 * [Tim Draper](https://twitter.com/TimDraper)
-* [Tone Vays](https://twitter.com/ToneVays?lang=en)
+* [Tone Vays](https://twitter.com/ToneVays?lang=en) 
 * [Tyler Winklevoss](https://twitter.com/tylerwinklevoss?lang=en)
 * [Vinny Lingham](https://twitter.com/VinnyLingham?lang=en)
 * [Vitalik Buterin](https://twitter.com/VitalikButerin?lang=en)
