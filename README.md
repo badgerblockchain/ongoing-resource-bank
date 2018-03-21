@@ -140,7 +140,7 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 * STARKS - 
 
 
-### Significant Articles and Works
+### Significant Articles 
 * Fat Protocol - [Post](http://www.usv.com/blog/fat-protocols)
 * Naval Ravikant [The Internet Money](https://startupboy.com/2013/11/07/bitcoin-the-internet-of-money/)
 * Muneeb Ali's [Blockstack: A Global Naming and Storage System
