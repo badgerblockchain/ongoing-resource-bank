@@ -15,6 +15,10 @@ A list of publicly available resources for everything your heart desires... Plea
      * Sharding
      * Tendermint
 - [Privacy and Anonymity](#privacy-and-anonymity)
+     * Privacy-Focused Altcoins
+     ** Monero
+     ** Zcash
+     * Mixers
 - [Hacking and Attacks](#hacking-and-attacks)
 - [Enterprise Blockchains](#enterprise-blockchains)
 - [Before Bitcoin](#before-bitcoin)
