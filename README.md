@@ -2,7 +2,6 @@
 A list of publicly available resources for everything your heart desires... Please feel free to make edits!
 
 # Table of Contents
-
 - [Bitcoin](#bitcoin)
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
 - [Consensus Algorithms](#consensus-algorithms)
@@ -82,6 +81,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * Wei Dei's [B Money](http://www.weidai.com/bmoney.txt)
 * Adam Back's [HashCash](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
 * Hal Finney's [RPOW](https://cryptome.org/rpow.htm)
+* David Chaum Digicash
 
 
 ## Whitepapers and Websites
@@ -234,3 +234,4 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 
 
 ## Resources in Madison
+* [100state](https://100state.com/)
