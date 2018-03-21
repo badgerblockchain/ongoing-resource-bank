@@ -3,16 +3,18 @@ A list of publicly available resources for everything your heart desires... Plea
 
 # Table of Contents
 - [Bitcoin and Blockchain Basics](#bitcoin-and-blockchain-basics)
-    * Hard & Soft Forks
+   * Transactions
+   * UTXO Model vs Account Model
+   * Bitcoin Block Anatomy
+   * Consensus
+   * Hash Functions
+   * Hard & Soft Forks
     
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
    * Smart Contracts
    * EVM
    * Gas
    * Web3
-       * IPFS
-       * OpenBazaar
-       * Golem
    * Cryptokitties
         
 - [Consensus Algorithms](#consensus-algorithms)
@@ -34,23 +36,12 @@ A list of publicly available resources for everything your heart desires... Plea
 - [Wallets](#wallets)
    * Private/Public Key Cryptography
    * Types of Wallets
-      * Multi-Sig
 
 
 - [Scaling](#scaling)
-   * Vertical (Improve Machine Power)
-      * Difficulty
-      * Block Size Debate
-      * SegWit
-      * Lightning and Payment Channels
-   * Horizontal (Increase # of Machines)
-      * Sharding
-      * Sidechains
-      
+   * Vertical Proposals (Improve Machine Power)
+   * Horizontal Proposals (Increase # of Machines)
    * Ethereum's Proposals
-      * Raiden
-      * Plasma
-      * Caespar
      
 - [Privacy and Anonymity](#privacy-and-anonymity)
     * KYC/AML
@@ -100,11 +91,24 @@ A list of publicly available resources for everything your heart desires... Plea
 
 ## Bitcoin and Blockchain Basics
 * [Whitepaper](https://bitcoin.org/bitcoin.pdf)
+* Transactions
+* UTXO Model vs Account Model
+* Bitcoin Block Anatomy
+* Consensus
+* Hash Functions
 * Hard & Soft Forks
 
 
 ## Ethereum and Smart Contracts
 * [Yellowpaper](http://gavwood.com/paper.pdf)
+* Smart Contracts
+* EVM
+* Gas
+* Web3
+   * IPFS
+   * OpenBazaar
+   * Golem
+* Cryptokitties
 
 
 ## Consensus Algorithms
@@ -131,6 +135,9 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 
 ## Wallets
+### Private/Public Key Cryptography
+### Types of Wallets
+#### Multi-Sig
 
 
 
@@ -142,7 +149,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 #### SegWit
 #### Lightning and Payment Channels
 
-_### Horizontal (Increasing # of Machines)_
+### Horizontal (Increasing # of Machines)
 #### Sharding
 #### Sidechains
       
