@@ -5,17 +5,17 @@ A list of publicly available resources for everything your heart desires...
 
 - [Bitcoin](#bitcoin)
 - [Ethereum & Smart Contracts](#ethereum-&-smart-contracts)
-- [Consensus Algorithms](#CA)
+- [Consensus Algorithms](#Consensus Algorithms)
 - [Mining](#Mining)
 - [Wallets](#wallets)
-- [Scaling](#scale)
-- [Privacy/Anonymity](#all-things-privacy)
-- [Enterprise Blockchains](#private-blockchains)
+- [Scaling](#scaling)
+- [Privacy/Anonymity](#privacy/anonymity)
+- [Enterprise Blockchains](#enterprise blockchains)
 - [Before Bitcoin](#before-bitcoin)
-- [White Papers](#white-papers)
+- [White Papers/Websites](#white-papers-/-websites)
 
-- [Talks, Documentaries](#docs)
-- [Medium, Twitter, Youtube, & Podcasts](#channels)
+- [Talks, Documentaries](#talks,-documentaries)
+- [Medium, Twitter, Youtube, & Podcasts](#Medium,-Twitter,-Youtube,-&-Podcasts)
 - [Resources in Madison](#social-media-channels)
 
 
@@ -43,11 +43,12 @@ A list of publicly available resources for everything your heart desires...
 
 
 
-## Scaling
-
-
-
 ## Wallets
+
+
+
+
+## Scaling
 
 
 
