@@ -5,10 +5,10 @@ A list of publicly available resources for everything your heart desires...
 
 - [Bitcoin](#bitcoin)
 - [Ethereum & Smart Contracts](#ethereum-&-smart-contracts)
-- [Scaling](#scale)
 - [Consensus Algorithms](#CA)
 - [Mining](#Mining)
 - [Wallets](#wallets)
+- [Scaling](#scale)
 - [Privacy/Anonymity](#all-things-privacy)
 - [Enterprise Blockchains](#private-blockchains)
 - [A Little History](#history)
@@ -43,6 +43,10 @@ A list of publicly available resources for everything your heart desires...
 
 
 
+## Scaling
+
+
+
 ## Wallets
 
 
@@ -66,6 +70,7 @@ A list of publicly available resources for everything your heart desires...
 * Nick Szabo's Bit Gold - [Article](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
 * Wei Dei's B Money - [Post](http://www.weidai.com/bmoney.txt)
 * Adam Back's HashCash - [PDF](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
+* Hal Finney's RPOW - [Post](https://cryptome.org/rpow.htm)
 
 
 ## Whitepapers/Websites
@@ -107,11 +112,9 @@ A list of publicly available resources for everything your heart desires...
 * RSK (rootstock) - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) / [Website](https://www.rsk.co/)
 * MimbleWimble
 
-#### Articles
-* Bit Gold - [Article](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
-* B Money - [Post](http://www.weidai.com/bmoney.txt)
-* HashCash - [PDF](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
+#### Significant Articles
 * Fat Protocol - [Post](http://www.usv.com/blog/fat-protocols)
+* Naval (https://startupboy.com/2013/11/07/bitcoin-the-internet-of-money/)
 
 
 
