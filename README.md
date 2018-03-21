@@ -115,10 +115,14 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | Bitcoin for Banks |
 | SALT | [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) | [saltlending.com](https://www.saltlending.com/) | Cryptocurrency Backed Loans |
 | Siacoin | [Whitepaper](https://sia.tech/sia.pdf) | [sia.tech](https://sia.tech/) | |
-| Stellar | [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) | [stellar.org](https://www.stellar.org/) | |
+| Stellar | [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) | [stellar.org](https://www.stellar.org/) | Ripple's speedy little brother|
+| Steem | [Whitepaper](https://steem.io/SteemWhitePaper.pdf) | [steem.com](https://steemit.com/) | Decentralized Social Media |
 | Tether | [Whitepaper](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) | [tether.to](https://tether.to/) | Stable coin (1 USDS = 1 USD |
 | TRON | - | [tron.network](https://tron.network/en.html) | |
 | VeChain | - | [vechain.org](https://www.vechain.org/) | |
+| Waltonchain | [Whitepaper](https://www.waltonchain.org/doc/Waltonchain-whitepaper_en_20180208.pdf) | [waltonchain.org](https://www.waltonchain.org/index.html) |  |
+| Waves | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | [wavesplatform.com](https://wavesplatform.com/company) | Consulting + Crowdsourcing |
+| Vertcoin | - | [vertcoin.org](https://vertcoin.org/) | |
 | Zcash | - | [z.cash](https://z.cash/) | Shielded (Homomorphically Hidden) Transactions |
 
 Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
