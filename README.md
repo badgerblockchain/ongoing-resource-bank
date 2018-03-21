@@ -121,8 +121,8 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Decred | [Whitepaper](https://decred.org/research/buterin2014.pdf) | [decred.org](https://www.decred.org/) | Bitcoin + alt gov model |
 | Dogecoin | [Whitepaper]() | [dogecoin.com](http://dogecoin.com/) | Much Love! |
 | EOS | [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/) | 3rd gen crypto on WebAssembly |
-| Ethereum Classic | [Whitepaper](https://coss.io/documents/white-papers/ethereum-classic.pdf) | [ethereumclassic.github.io](https://ethereumclassic.github.io/) | |
-| Golem | [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) | [golem.network](https://golem.network/) | Ethereum's Fork from DAO Attack|
+| Ethereum Classic | [Whitepaper](https://coss.io/documents/white-papers/ethereum-classic.pdf) | [ethereumclassic.github.io](https://ethereumclassic.github.io/) | Ethereum's Fork from DAO Attack |
+| Golem | [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) | [golem.network](https://golem.network/) | Market for idle computer power |
 | ICON | [Whitepaper](https://icon.foundation/resources/whitepaper/ICON-Whitepaper-EN-Draft.pdf) | [icon.foundation](https://icon.foundation/) | |
 | IOTA | [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) | [iota.org](https://iota.org/) | IoT through a DAG  |
 | LISK | [Whitepaper]() | [lisk.io](https://lisk.io/) | Javascript + sidechains |
@@ -158,6 +158,8 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 * Bulletproofs - [](https://eprint.iacr.org/2017/1066.pdf)
 * SNARKS - 
 * STARKS - 
+* HashGraph
+* Algorand
 
 
 ### Significant Articles 
