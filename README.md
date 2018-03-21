@@ -11,7 +11,7 @@ A list of publicly available resources for everything your heart desires...
 - [Scaling](#scale)
 - [Privacy/Anonymity](#all-things-privacy)
 - [Enterprise Blockchains](#private-blockchains)
-- [A Little History](#history)
+- [Before Bitcoin](#before-bitcoin)
 - [White Papers](#white-papers)
 
 - [Talks, Documentaries](#docs)
@@ -66,7 +66,7 @@ A list of publicly available resources for everything your heart desires...
 * 
 
 
-## A Little History
+## Before Bitcoin
 * Nick Szabo's Bit Gold - [Article](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
 * Wei Dei's B Money - [Post](http://www.weidai.com/bmoney.txt)
 * Adam Back's HashCash - [PDF](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
