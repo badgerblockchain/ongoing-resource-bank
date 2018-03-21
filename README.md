@@ -4,6 +4,7 @@ A list of publicly available resources for everything your heart desires... Plea
 # Table of Contents
 - [Bitcoin](#bitcoin)
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
+     * Web3
 - [Consensus Algorithms](#consensus-algorithms)
 - [Mining](#mining)
 - [Wallets](#wallets)
@@ -51,6 +52,8 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 #### Burn
 #### Capacity
 #### 
+
+### DAGs
 
 
 ## Mining
