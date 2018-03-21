@@ -16,8 +16,8 @@ A list of publicly available resources for everything your heart desires... Plea
      * Tendermint
 - [Privacy and Anonymity](#privacy-and-anonymity)
      * Privacy-Focused Altcoins
-     ** Monero
-     ** Zcash
+     * Monero
+     * Zcash
      * Mixers
 - [Hacking and Attacks](#hacking-and-attacks)
 - [Enterprise Blockchains](#enterprise-blockchains)
@@ -121,7 +121,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | DASH | [Whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper) | [dash.org](https://www.dash.org/) | Bitcoin + Privacy and new Governance|
 | Decred | [Whitepaper](https://decred.org/research/buterin2014.pdf) | [decred.org](https://www.decred.org/) | Bitcoin + alt gov model |
 | Dogecoin | [Whitepaper]() | [dogecoin.com](http://dogecoin.com/) | Much Love! |
-| DigixDAO | [Whitepaper](file:///Users/brenfife/Downloads/WhitePaper.pdf) | [digix.global](https://digix.global/dgd/) |  |
+| DigixDAO | [Whitepaper]() | [digix.global](https://digix.global/dgd/) |  |
 | EOS | [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/) | 3rd gen crypto on WebAssembly |
 | Ethereum Classic | [Whitepaper](https://coss.io/documents/white-papers/ethereum-classic.pdf) | [ethereumclassic.github.io](https://ethereumclassic.github.io/) | Ethereum's Fork from DAO Attack |
 | Golem | [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) | [golem.network](https://golem.network/) | Market for idle computer power |
@@ -141,6 +141,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | Bitcoin for Banks |
 | SALT | [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) | [saltlending.com](https://www.saltlending.com/) | Cryptocurrency Backed Loans |
 | Siacoin | [Whitepaper](https://sia.tech/sia.pdf) | [sia.tech](https://sia.tech/) | |
+| Status | [Whitepaper](https://status.im/whitepaper.pdf) | [status.im](https://status.im/) | . |
 | Stratis | [Whitepaper](https://stratisplatform.com/files/Stratis_Whitepaper.pdf) | [stratisplatform.com](https://stratisplatform.com/) | . |
 | Stellar | [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) | [stellar.org](https://www.stellar.org/) | Ripple's speedy little brother|
 | Steem | [Whitepaper](https://steem.io/SteemWhitePaper.pdf) | [steem.com](https://steemit.com/) | Decentralized Social Media |
