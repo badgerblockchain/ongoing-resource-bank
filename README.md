@@ -108,7 +108,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 | Coin/Token    | Whitepaper    | Website | Sentence Description |
 | ------------- | ------------- | ------------- | ------------- |
-| Bitcoin  | Whitepaper(https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
+| Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
 | Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [Website](https://www.ethereum.org/) | |
 | Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [Website](https://ripple.com/) | |
 | Bitcoin Cash | - | [Website](https://www.bitcoincash.org/) | |
