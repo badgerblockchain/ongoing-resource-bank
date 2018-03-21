@@ -28,13 +28,13 @@ A list of publicly available resources for everything your heart desires...
 
 
 ## Consensus Algorithms
-#### Proof of Work
+### Proof of Work
 
 
-#### Proof of Steak
+### Proof of Steak
 Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
 
-#### Proof of ...
+### Proof of ...
 
 
 
@@ -73,7 +73,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 
 ## Whitepapers/Websites
-#### Crypto's
+### Crypto's
 * Bitcoin - [Whitepaper](https://bitcoin.org/bitcoin.pdf) 
 * Ethereum - [Yellowpaper](http://gavwood.com/paper.pdf) / [Website](https://www.ethereum.org/)
 * Ripple - [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) / [Website](https://ripple.com/)
@@ -107,16 +107,24 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * 0x - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) / [Website](https://0xproject.com/)
 * SALT - [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) / [Website](https://www.saltlending.com/)
 
-#### Additional Protocols
+### Additional Protocols
 * RSK (rootstock) - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) / [Website](https://www.rsk.co/)
 * MimbleWimble - [](https://scalingbitcoin.org/papers/mimblewimble.txt)
 * Bulletproofs - [](https://eprint.iacr.org/2017/1066.pdf)
 * SNARKS - 
 * STARKS
 
-#### Significant Articles
+### Significant Articles and Works
 * Fat Protocol - [Post](http://www.usv.com/blog/fat-protocols)
-* Naval (https://startupboy.com/2013/11/07/bitcoin-the-internet-of-money/)
+* Naval Ravikant [The Internet Money](https://startupboy.com/2013/11/07/bitcoin-the-internet-of-money/)
+* Muneeb Ali's [Blockstack: A Global Naming and Storage System
+Secured by Blockchains](https://blockstack.org/blockstack_usenix16.pdf)
+* Joesph Poon's [Blockstack: A Global Naming and Storage System
+Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
+* Eclipse Attacks [on Bitcoin’s Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf)
+* Marc Andreesen - [Why Bitcoin Matters](https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/)
+* Eric Voorhee - [The Role of Bitcoin as Money](http://moneyandstate.com/role-bitcoin-money/)
+
 
 
 
