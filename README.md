@@ -167,7 +167,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 
 
 ### YouTube Channels
-
+[Andreas Antonopoulos Official Youtube Channel](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
 
 ### Podcasts
 * [a16z Podcast](https://a16z.com/podcasts/)
@@ -179,9 +179,9 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 
 ## Influencers
 * Adam Back
-* Alex Tapscott
-* Amber Baldet - [Twitter](https://twitter.com/AmberBaldet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-* Andreas Antonopoulos - [Twitter](https://twitter.com/aantonop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) / [Youtube](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
+* [Alex Tapscott](https://twitter.com/alextapscott?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [Amber Baldet](https://twitter.com/AmberBaldet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [Andreas Antonopoulos](https://twitter.com/aantonop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 * Andrew Poelstra 
 * Brad Garlinghouse
 * Brian Armstrong 
@@ -200,7 +200,6 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * Gavin Andresen
 * Gavin Wood 
 * Gregory Maxwell
-* Hal Finney
 * Jackson Palmer
 * Jamie Dimon
 * Jameson Lopp
@@ -226,7 +225,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * Riccardo Spagni
 * Richard Heart
 * Roger Ver
-* Satoshi Nakamoto
+* Satoshi Nakamoto... Not very important... 
 * Silvio Micali
 * Tim Draper
 * Tone Vays
@@ -236,9 +235,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * Will Warren
 * Vlad Zamfir
 * Yao Qian
-* Zooko Wilcox
-
-
+* [Zooko Wilcox](https://twitter.com/zooko?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 
 ## Resources in Madison
