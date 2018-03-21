@@ -2,28 +2,62 @@
 A list of publicly available resources for everything your heart desires... Please feel free to make edits!
 
 # Table of Contents
-- [Bitcoin](#bitcoin)
+- [Bitcoin and Blockchain Basics](#bitcoin-and-blockchain-basics)
+    * Hard & Soft Forks
+    
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
-     * Web3
-        * IPFS
+    * Web3
+       * IPFS
+       * OpenBazaar
+       * Golem
+   * Cryptokitties
+        
 - [Consensus Algorithms](#consensus-algorithms)
+    * CAP 
+    
+    
 - [Mining](#mining)
+
+
 - [Wallets](#wallets)
+
+
 - [Scaling](#scaling)
-     * Lightning
-     * SegWit
-     * Raiden
-     * Caespar
-     * Sharding
-     * Tendermint
+    * Lightning
+    * SegWit
+    * Raiden
+    * Sharding
+    * Caespar
+    * Sidechains
+    * Tendermint
+     
 - [Privacy and Anonymity](#privacy-and-anonymity)
-     * Privacy-Focused Altcoins
-     * Monero
-     * Zcash
-     * Mixers
+    * KYC/AML
+    * Taint Analysis
+    * Privacy-Focused Altcoins
+    * Monero
+    * Zcash
+    * Mixers
+    
 - [Hacking and Attacks](#hacking-and-attacks)
+    * Sybil Attacks
+    * Eclipse Attack
+    * DAO Hack
+    * Parity Hack
+    
 - [Enterprise Blockchains](#enterprise-blockchains)
+    * R3's Corda
+    * HyperLedger
+    * Quorum
+    * Everledger
+    * ConsenSys
+    * EEA
+    
 - [Before Bitcoin](#before-bitcoin)
+- [Governance]
+    * Tezos
+
+
 - [Whitepapers and Websites](#whitepapers-and-websites)
 - [Talks and Documentaries](#talks-and-documentaries)
 - [Medium, Youtube, and Podcast Channels](#medium-youtube-and-podcast-channels)
@@ -31,9 +65,12 @@ A list of publicly available resources for everything your heart desires... Plea
 - [Resources in Wisconsin](#resources-in-wisconsin)
 
 
+---
 
-## Bitcoin
+
+## Bitcoin and Blockchain Basics
 * [Whitepaper](https://bitcoin.org/bitcoin.pdf)
+* Hard & Soft Forks
 
 
 ## Ethereum and Smart Contracts
@@ -55,6 +92,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 #### 
 
 ### DAGs
+#### Tangle
 
 
 ## Mining
