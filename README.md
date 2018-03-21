@@ -32,7 +32,7 @@ A list of publicly available resources for everything your heart desires...
 
 
 #### Proof of Steak
-
+Vitalik Buterin's ["A Proof of Stake Design Philosophy"] (https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
 
 #### Proof of ...
 
@@ -63,7 +63,6 @@ A list of publicly available resources for everything your heart desires...
 ## Enterprise Blockchains
 * R3's Corda
 * HyperLedger
-* 
 
 
 ## Before Bitcoin
@@ -110,11 +109,10 @@ A list of publicly available resources for everything your heart desires...
 
 #### Additional Protocols
 * RSK (rootstock) - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) / [Website](https://www.rsk.co/)
-* MimbleWimble
-* Bulletproofs 
-* SNARKS
+* MimbleWimble - [](https://scalingbitcoin.org/papers/mimblewimble.txt)
+* Bulletproofs - [](https://eprint.iacr.org/2017/1066.pdf)
+* SNARKS - 
 * STARKS
-* 
 
 #### Significant Articles
 * Fat Protocol - [Post](http://www.usv.com/blog/fat-protocols)
@@ -128,6 +126,7 @@ A list of publicly available resources for everything your heart desires...
 
 ## Medium, Twitter, YouTube, & Podcast Channels
 * Andreas Antonopoulos - [Twitter](https://twitter.com/aantonop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) / [Youtube](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
+* 
 
 
 ## Resources in Madison
