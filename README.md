@@ -142,7 +142,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 #### SegWit
 #### Lightning and Payment Channels
 
-### Horizontal (Increasing # of Machines)
+_### Horizontal (Increasing # of Machines)_
 #### Sharding
 #### Sidechains
       
