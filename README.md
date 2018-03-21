@@ -8,6 +8,7 @@ A list of publicly available resources for everything your heart desires... Plea
 - [Mining](#mining)
 - [Wallets](#wallets)
 - [Scaling](#scaling)
+- * Scaling
 - [Privacy and Anonymity](#privacy-and-anonymity)
 - [Hacking and Attacks](#hacking-and-attacks)
 - [Enterprise Blockchains](#enterprise-blockchains)
