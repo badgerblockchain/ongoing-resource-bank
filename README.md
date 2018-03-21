@@ -32,7 +32,7 @@ A list of publicly available resources for everything your heart desires...
 
 
 #### Proof of Steak
-Vitalik Buterin's ["A Proof of Stake Design Philosophy"] (https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
+Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
 
 #### Proof of ...
 
