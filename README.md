@@ -10,7 +10,7 @@ A list of publicly available resources for everything your heart desires...
 - [Wallets](#wallets)
 - [Scaling](#scaling)
 - [Privacy/Anonymity](#privacy/anonymity)
-- [Enterprise Blockchains](#enterprise blockchains)
+- [Enterprise Blockchains](#enterprise-blockchains)
 - [Before Bitcoin](#before-bitcoin)
 - [White Papers/Websites](#white-papers-/-websites)
 - [Talks, Documentaries](#talks,-documentaries)
