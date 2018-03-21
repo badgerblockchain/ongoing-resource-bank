@@ -9,6 +9,7 @@ A list of publicly available resources for everything your heart desires... Plea
 - [Wallets](#wallets)
 - [Scaling](#scaling)
 - [Privacy and Anonymity](#privacy-and-anonymity)
+- [Hacking, Attacks, and Sybil Attacks](#hacking-attacks-and-sybil-attacks)
 - [Enterprise Blockchains](#enterprise-blockchains)
 - [Before Bitcoin](#before-bitcoin)
 - [Whitepapers and Websites](#whitepapers-and-websites)
@@ -69,6 +70,10 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * CoinJoin
 * TumbleBit
 * MimbleWimble
+
+
+## Hacking, Attacks, and Sybil Attacks
+* Eclipse Attacks
 
 
 
