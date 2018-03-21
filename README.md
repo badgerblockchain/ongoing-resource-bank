@@ -157,15 +157,56 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 
 
 ## Medium, Twitter, YouTube, and Podcast Channels 
-### Speakers
+### Influencers
+* Adam Back
+* Alex Tapscott
 * Andreas Antonopoulos - [Twitter](https://twitter.com/aantonop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) / [Youtube](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
-* Andrew Poelstra - 
+* Andrew Poelstra 
+* Brad Garlinghouse
+* Brian Armstrong 
+* Brock Pierce
+* Charles Hoskinson
+* Charlie Lee
+* Charlie Shrem
+* Dan Morehead
+* Don Tapscott
+* Elizabeth Stark
+* Erik Voorhees
 * Evan Schwartz
+* Gavin Andresen
+* Gavin Wood 
+* Gregory Maxwell
+* Hal Finney
+* Jackson Palmer
 * Jameson Lopp
+* Jeff Garzik
 * Jeremy Gardner
+* Jihan Wu
+* Jimmy Song
+* John McAfee
+* Joseph Lubin
 * Juan Benet
+* Laura Shin
+* Linda Xie
+* Marc Andreesen
+* Max Keiser
+* Michael Novogratz
+* Muneeb Ali
+* Naval Ravikant
+* Nick Szabo
+* Patrick Byrne
+* Pieter Wuille
+* Roger Ver
+* Satoshi Nakamoto
 * Silvio Micali
+* Tim Draper
+* Tone Vays
+* Tyler Winklevoss
+* Vinny Lingham
+* Vitalik Buterin
 * Will Warren
+* Vlad Zamfir
+* Zooko Wilcox
 
 
 
