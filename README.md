@@ -4,7 +4,7 @@ A list of publicly available resources for everything your heart desires...
 # Table of Contents
 
 - [Bitcoin](#bitcoin)
-- [Ethereum & Smart Contracts](#ethereum-smart-contracts)
+- [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
 - [Consensus Algorithms](#consensus-algorithms)
 - [Mining](#mining)
 - [Wallets](#wallets)
@@ -23,7 +23,7 @@ A list of publicly available resources for everything your heart desires...
 * [Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
 
-## Ethereum & Smart Contracts
+## Ethereum and Smart Contracts
 * [Yellowpaper](http://gavwood.com/paper.pdf)
 
 
