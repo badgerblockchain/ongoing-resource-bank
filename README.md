@@ -79,7 +79,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * Litecoin - [Website](https://litecoin.org/)
 * Bitcoin Cash - [Website](https://www.bitcoincash.org/)
 * Cardano - [Whitepaper](https://whycardano.com/?__hstc=64163184.86ec57e5f877b33495b4d05f89235f77.1520832501492.1520832501492.1521597341669.2&__hssc=64163184.2.1521597341669&__hsfp=2043253899) / [Website](https://www.cardano.org/en/home/)
-* EOS - [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) / [Website](https://eos.io/)
+* EOS - [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) / [eos.io](https://eos.io/)
 * Monero - [Whitepaper]() / [Website](https://getmonero.org/)
 * Zcash - [Whitepaper]() / [Website](https://z.cash/)
 * Stellar - [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) / [Website](https://www.stellar.org/)
@@ -109,28 +109,37 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Coin/Token    | Whitepaper    | Website | Sentence Description |
 | ------------- | ------------- | ------------- | ------------- |
 | Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
-| Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [Website](https://www.ethereum.org/) | |
-| Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [Website](https://ripple.com/) | |
-| Bitcoin Cash | - | [Website](https://www.bitcoincash.org/) | |
-| Litecoin | - | [Website](https://litecoin.org/) | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
-| Bitcoin Cash | [Whitepaper]() | - | |
+| Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [ethereum.org](https://www.ethereum.org/) | |
+| Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | |
+| Bitcoin Cash | - | [bitcoincash.org](https://www.bitcoincash.org/) | |
+| Litecoin | - | [litecoin.org](https://litecoin.org/) | |
+| Cardano | [Whitepaper](https://whycardano.com/?__hstc=64163184.86ec57e5f877b33495b4d05f89235f77.1520832501492.1520832501492.1521597341669.2&__hssc=64163184.2.1521597341669&__hsfp=2043253899) |  [cardano.org](https://www.cardano.org/en/home/)| |
+| EOS | [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/) | |
+| Monero | [Whitepaper]() | - | |
+| Zcash | [Whitepaper]() | - | |
+| DASH | [Whitepaper]() | - | |
+| Stellar | [Whitepaper]() | - | |
+| NEO | [Whitepaper]() | - | |
+| IOTA | [Whitepaper]() | - | |
+| Ethereum Classic | [Whitepaper]() | - | |
+| Tether | [Whitepaper]() | - | |
+| VeChain | [Whitepaper]() | - | |
+| Qtum | [Whitepaper]() | - | |
+| Binance | [Whitepaper]() | - | |
+| ICON | [Whitepaper]() | - | |
+| NEM | [Whitepaper]() | - | |
+| TRON | [Whitepaper]() | - | |
+| LISK | [Whitepaper]() | - | |
+| OmiseGO | [Whitepaper]() | - | |
+| Nano | [Whitepaper]() | - | |
+| Bitcoin Gold | [Whitepaper]() | - | |
+| Siacoin | [Whitepaper]() | - | |
+| Golem | [Whitepaper]() | - | |
+| Dogecoin | [Whitepaper]() | - | |
+| Augur | [Whitepaper]() | - | |
+| Decred | [Whitepaper]() | - | |
+| 0x | [Whitepaper]() | - | |
+| SALT | [Whitepaper]() | - | |
 
 
 
