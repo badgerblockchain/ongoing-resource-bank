@@ -86,40 +86,40 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 ## Whitepapers/Websites
 ### Crypto's
-| Coin/Token    | Whitepaper    | Website | Sentence Description |
+| Coin/Token    | Whitepaper    | Website | Several Word Description |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
-| Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [ethereum.org](https://www.ethereum.org/) | |
-| 0x | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) | [0xproject.com](https://0xproject.com/) | |
-| Augur | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf) | [augur.net](http://www.augur.net/) | |
-| Binance | [Whitepaper](https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf) | [binance.com](https://www.binance.com/) | |
-| Bitcoin Cash | - | [bitcoincash.org](https://www.bitcoincash.org/) | |
+| Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [ethereum.org](https://www.ethereum.org/) | Programmable Money |
+| 0x | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) | [0xproject.com](https://0xproject.com/) | Decentralized Exchange |
+| Augur | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf) | [augur.net](http://www.augur.net/) | Decentralized Prediction Market |
+| Binance | [Whitepaper](https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf) | [binance.com](https://www.binance.com/) | Reduce Trading Fees on Binance |
+| Bitcoin Cash | - | [bitcoincash.org](https://www.bitcoincash.org/) | Bitcoin Fork w/ 8MB size blocks|
 | Bitcoin Gold | [Whitepaper](https://bitcoingold.org/wp-content/uploads/2017/10/BitcoinGold-Roadmap.pdf) | [bitcoingold.org](https://bitcoingold.org/) | |
-| Cardano | [Whitepaper](https://whycardano.com/?__hstc=64163184.86ec57e5f877b33495b4d05f89235f77.1520832501492.1520832501492.1521597341669.2&__hssc=64163184.2.1521597341669&__hsfp=2043253899) |  [cardano.org](https://www.cardano.org/en/home/)| |
-| DASH | [Whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper) | [dash.org](https://www.dash.org/) | |
-| Decred | [Whitepaper](https://decred.org/research/buterin2014.pdf) | [decred.org](https://www.decred.org/) | |
-| Dogecoin | [Whitepaper]() | [dogecoin.com](http://dogecoin.com/) | |
-| EOS | [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/) | |
+| Cardano | [Whitepaper](https://whycardano.com/?__hstc=64163184.86ec57e5f877b33495b4d05f89235f77.1520832501492.1520832501492.1521597341669.2&__hssc=64163184.2.1521597341669&__hsfp=2043253899) |  [cardano.org](https://www.cardano.org/en/home/)| 3rd gen crypto + academics |
+| DASH | [Whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper) | [dash.org](https://www.dash.org/) | Bitcoin + Privacy and new Governance|
+| Decred | [Whitepaper](https://decred.org/research/buterin2014.pdf) | [decred.org](https://www.decred.org/) | Bitcoin + alt gov model |
+| Dogecoin | [Whitepaper]() | [dogecoin.com](http://dogecoin.com/) | Much Love! |
+| EOS | [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/) | 3rd gen crypto on WebAssembly |
 | Ethereum Classic | [Whitepaper](https://coss.io/documents/white-papers/ethereum-classic.pdf) | [ethereumclassic.github.io](https://ethereumclassic.github.io/) | |
-| Golem | [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) | [golem.network](https://golem.network/) | |
+| Golem | [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) | [golem.network](https://golem.network/) | Ethereum's Fork from DAO Attack|
 | ICON | [Whitepaper](https://icon.foundation/resources/whitepaper/ICON-Whitepaper-EN-Draft.pdf) | [icon.foundation](https://icon.foundation/) | |
-| IOTA | [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) | [iota.org](https://iota.org/) | |
-| LISK | [Whitepaper]() | [lisk.io](https://lisk.io/) | |
-| Litecoin | - | [litecoin.org](https://litecoin.org/) | |
-| Monero | - | [getmonero.org](https://getmonero.org/) | |
+| IOTA | [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) | [iota.org](https://iota.org/) | IoT through a DAG  |
+| LISK | [Whitepaper]() | [lisk.io](https://lisk.io/) | Javascript + sidechains |
+| Litecoin | - | [litecoin.org](https://litecoin.org/) | Bitcoin's speedy little brother |
+| Monero | - | [getmonero.org](https://getmonero.org/) | Privacy altoin |
 | Nano | [Whitepaper](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf) | [nano.org](https://nano.org/en) | |
 | NEM | [Whitepaper](https://nem.io/wp-content/themes/nem/files/NEM_techRef.pdf) | [nem.io](https://nem.io/) | |
-| NEO | [Whitepaper](http://docs.neo.org/en-us/) | [neo.org](https://neo.org/) | |
+| NEO | [Whitepaper](http://docs.neo.org/en-us/) | [neo.org](https://neo.org/) | China's Ethereum |
 | OmiseGO | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/OmiseGO-Whitepaper.pdf) | [omisego.network](https://omisego.network/) | |
 | Qtum | [Whitepaper](https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf) | [qtum.org](https://qtum.org/en/) | |
-| Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | |
-| SALT | [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) | [saltlending.com](https://www.saltlending.com/) | |
+| Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | Bitcoin for Banks |
+| SALT | [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) | [saltlending.com](https://www.saltlending.com/) | Cryptocurrency Backed Loans |
 | Siacoin | [Whitepaper](https://sia.tech/sia.pdf) | [sia.tech](https://sia.tech/) | |
 | Stellar | [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) | [stellar.org](https://www.stellar.org/) | |
-| Tether | [Whitepaper](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) | [tether.to](https://tether.to/) | |
+| Tether | [Whitepaper](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) | [tether.to](https://tether.to/) | Stable coin (1 USDS = 1 USD |
 | TRON | - | [tron.network](https://tron.network/en.html) | |
 | VeChain | - | [vechain.org](https://www.vechain.org/) | |
-| Zcash | - | [z.cash](https://z.cash/) | |
+| Zcash | - | [z.cash](https://z.cash/) | Shielded (Homomorphically Hidden) Transactions |
 
 Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 
