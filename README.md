@@ -76,13 +76,14 @@ A list of publicly available resources for everything your heart desires... Plea
     * EEA
     
 - [Before the Rise of Cryptocurrencies...](#before-bitcoin)
-   * Silk Road
-   * Mt. GOX
    * David Chaum's Digicash
    * Nick Szabo's [Bit Gold](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
    * Wei Dei's [B Money](http://www.weidai.com/bmoney.txt)
    * Adam Back's [HashCash](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
    * Hal Finney's [RPOW](https://cryptome.org/rpow.htm)
+   * Cypherpunk's
+   * Silk Road
+   * Mt. GOX
    
 
 
@@ -183,6 +184,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * Wei Dei's [B Money](http://www.weidai.com/bmoney.txt)
 * Adam Back's [HashCash](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
 * Hal Finney's [RPOW](https://cryptome.org/rpow.htm)
+* Cypherpunks
 * Silk Road & The Silk Road
 * Mt. GOX
 
@@ -274,7 +276,8 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 
 
 ### YouTube Channels
-[Andreas Antonopoulos Official Youtube Channel](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
+[Andreas Antonopoulos](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
+[Blockstack](https://www.youtube.com/channel/UC3J2iHnyt2JtOvtGVf_jpHQ)
 
 ### Podcasts
 * [a16z Podcast](https://a16z.com/podcasts/)
