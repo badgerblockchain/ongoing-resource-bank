@@ -26,7 +26,7 @@ A list of publicly available resources for everything your heart desires... Plea
 - [Talks and Documentaries](#talks-and-documentaries)
 - [Medium, Youtube, and Podcast Channels](#medium-youtube-and-podcast-channels)
 - [Influencers](#influencers)
-- [Resources in Madison](#resources-in-madison)
+- [Resources in Wisconsin](#resources-in-wisconsin)
 
 
 
@@ -242,7 +242,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * [Richard Heart](https://twitter.com/RichardHeartWin?lang=en)
 * [Roger Ver](https://twitter.com/rogerkver?lang=en)
 * Satoshi Nakamoto... Not important at all... 
-* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT Professor, Founder of [Algorand](https://www.algorand.com/))
+* [Silvio Micali](https://people.csail.mit.edu/silvio/) - MIT Professor, Founder of Algorand
 * [Tim Draper](https://twitter.com/TimDraper)
 * [Tone Vays](https://twitter.com/ToneVays?lang=en) 
 * [Tyler Winklevoss](https://twitter.com/tylerwinklevoss?lang=en)
@@ -253,5 +253,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * [Zooko Wilcox](https://twitter.com/zooko?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 
-## Resources in Madison
+## Resources in Wisconsin
 * [100state](https://100state.com/)
+* [Badgerblockchain](badgerblockchain.club)
+* [Coinigy](https://www.coinigy.com/)
