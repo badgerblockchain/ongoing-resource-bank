@@ -120,7 +120,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Decred | [Whitepaper](https://decred.org/research/buterin2014.pdf) | - | |
 | Dogecoin | [Whitepaper]() | [dogecoin.com](http://dogecoin.com/) | |
 | EOS | [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/) | |
-| Ethereum Classic | [Whitepaper]() | - | |
+| Ethereum Classic | [Whitepaper](https://coss.io/documents/white-papers/ethereum-classic.pdf) | [ethereumclassic.github.io](https://ethereumclassic.github.io/) | |
 | Golem | [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) | [golem.network](https://golem.network/) | |
 | ICON | [Whitepaper]() | - | |
 | IOTA | [Whitepaper]() | - | |
