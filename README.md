@@ -93,7 +93,8 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Augur | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf) | [augur.net](http://www.augur.net/) | Decentralized Prediction Market |
 | Binance | [Whitepaper](https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf) | [binance.com](https://www.binance.com/) | Reduce Trading Fees on Binance |
 | Bitcoin Cash | - | [bitcoincash.org](https://www.bitcoincash.org/) | Bitcoin Fork w/ 8MB size blocks|
-| Bitcoin Gold | [Whitepaper](https://bitcoingold.org/wp-content/uploads/2017/10/BitcoinGold-Roadmap.pdf) | [bitcoingold.org](https://bitcoingold.org/) | |
+| Bitcoin Private | - | [btcprivate.org](https://btcprivate.org/) | Bitcoin Fork w/ zkSNARKS|
+| Bitcoin Gold | [Whitepaper](https://bitcoingold.org/wp-content/uploads/2017/10/BitcoinGold-Roadmap.pdf) | [bitcoingold.org](https://bitcoingold.org/) | Bitcoin + ASIC resistant + Equihash |
 | Cardano | [Whitepaper](https://whycardano.com/?__hstc=64163184.86ec57e5f877b33495b4d05f89235f77.1520832501492.1520832501492.1521597341669.2&__hssc=64163184.2.1521597341669&__hsfp=2043253899) |  [cardano.org](https://www.cardano.org/en/home/)| 3rd gen crypto + academics |
 | DASH | [Whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper) | [dash.org](https://www.dash.org/) | Bitcoin + Privacy and new Governance|
 | Decred | [Whitepaper](https://decred.org/research/buterin2014.pdf) | [decred.org](https://www.decred.org/) | Bitcoin + alt gov model |
@@ -105,17 +106,20 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | IOTA | [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) | [iota.org](https://iota.org/) | IoT through a DAG  |
 | LISK | [Whitepaper]() | [lisk.io](https://lisk.io/) | Javascript + sidechains |
 | Litecoin | - | [litecoin.org](https://litecoin.org/) | Bitcoin's speedy little brother |
+| Loopring | [Whitepaper](https://github.com/Loopring/whitepaper/blob/master/en_whitepaper.pdf) | [loopring.org](https://loopring.org/en/index.html) | DEX |
 | Monero | - | [getmonero.org](https://getmonero.org/) | Privacy altoin |
 | Nano | [Whitepaper](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf) | [nano.org](https://nano.org/en) | |
 | NEM | [Whitepaper](https://nem.io/wp-content/themes/nem/files/NEM_techRef.pdf) | [nem.io](https://nem.io/) | |
 | NEO | [Whitepaper](http://docs.neo.org/en-us/) | [neo.org](https://neo.org/) | China's Ethereum |
 | OmiseGO | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/OmiseGO-Whitepaper.pdf) | [omisego.network](https://omisego.network/) | |
+| Populous | [Whitepaper](https://populous.co/populous_whitepaper.pdf) | [qtum.org](https://populous.co/) | Invoice trading|
 | Qtum | [Whitepaper](https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf) | [qtum.org](https://qtum.org/en/) | |
 | Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | Bitcoin for Banks |
 | SALT | [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) | [saltlending.com](https://www.saltlending.com/) | Cryptocurrency Backed Loans |
 | Siacoin | [Whitepaper](https://sia.tech/sia.pdf) | [sia.tech](https://sia.tech/) | |
 | Stellar | [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) | [stellar.org](https://www.stellar.org/) | Ripple's speedy little brother|
 | Steem | [Whitepaper](https://steem.io/SteemWhitePaper.pdf) | [steem.com](https://steemit.com/) | Decentralized Social Media |
+| TenX | [Whitepaper](https://www.tenx.tech/whitepaper/tenx_whitepaper_final.pdf) | [tenx.tech](https://www.tenx.tech/) | Crypto Credit Card |
 | Tether | [Whitepaper](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) | [tether.to](https://tether.to/) | Stable coin (1 USDS = 1 USD |
 | TRON | - | [tron.network](https://tron.network/en.html) | |
 | VeChain | - | [vechain.org](https://www.vechain.org/) | |
@@ -132,7 +136,7 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 * MimbleWimble - [](https://scalingbitcoin.org/papers/mimblewimble.txt)
 * Bulletproofs - [](https://eprint.iacr.org/2017/1066.pdf)
 * SNARKS - 
-* STARKS
+* STARKS - 
 
 
 ### Significant Articles and Works
