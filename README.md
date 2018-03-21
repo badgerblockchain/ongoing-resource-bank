@@ -33,9 +33,12 @@ A list of publicly available resources for everything your heart desires...
 
 ### Proof of Steak
 Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
+#### DPoS
 
 ### Proof of ...
-
+#### Burn
+#### Capacity
+#### 
 
 
 ## Mining
@@ -48,6 +51,15 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 
 ## Scaling
+### Lightning
+### SegWit
+### Raiden
+### Caespar 
+### Plasma
+### Sharding
+### 
+### Tendermint
+
 
 
 
