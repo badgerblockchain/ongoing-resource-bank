@@ -110,36 +110,36 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
 | Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [ethereum.org](https://www.ethereum.org/) | |
-| Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | |
-| Bitcoin Cash | - | [bitcoincash.org](https://www.bitcoincash.org/) | |
-| Litecoin | - | [litecoin.org](https://litecoin.org/) | |
-| Cardano | [Whitepaper](https://whycardano.com/?__hstc=64163184.86ec57e5f877b33495b4d05f89235f77.1520832501492.1520832501492.1521597341669.2&__hssc=64163184.2.1521597341669&__hsfp=2043253899) |  [cardano.org](https://www.cardano.org/en/home/)| |
-| EOS | [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/) | |
-| Monero | [Whitepaper]() | - | |
-| Zcash | [Whitepaper]() | - | |
-| DASH | [Whitepaper]() | - | |
-| Stellar | [Whitepaper]() | - | |
-| NEO | [Whitepaper]() | - | |
-| IOTA | [Whitepaper]() | - | |
-| Ethereum Classic | [Whitepaper]() | - | |
-| Tether | [Whitepaper]() | - | |
-| VeChain | [Whitepaper]() | - | |
-| Qtum | [Whitepaper]() | - | |
-| Binance | [Whitepaper]() | - | |
-| ICON | [Whitepaper]() | - | |
-| NEM | [Whitepaper]() | - | |
-| TRON | [Whitepaper]() | - | |
-| LISK | [Whitepaper]() | - | |
-| OmiseGO | [Whitepaper]() | - | |
-| Nano | [Whitepaper]() | - | |
-| Bitcoin Gold | [Whitepaper]() | - | |
-| Siacoin | [Whitepaper]() | - | |
-| Golem | [Whitepaper]() | - | |
-| Dogecoin | [Whitepaper]() | - | |
+| 0x | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) | - | |
 | Augur | [Whitepaper]() | - | |
-| Decred | [Whitepaper]() | - | |
-| 0x | [Whitepaper]() | - | |
-| SALT | [Whitepaper]() | - | |
+| Binance | [Whitepaper]() | - | |
+| Bitcoin Cash | - | [bitcoincash.org](https://www.bitcoincash.org/) | |
+| Bitcoin Gold | [Whitepaper](https://bitcoingold.org/wp-content/uploads/2017/10/BitcoinGold-Roadmap.pdf) | [bitcoingold.org](https://bitcoingold.org/) | |
+| Cardano | [Whitepaper](https://whycardano.com/?__hstc=64163184.86ec57e5f877b33495b4d05f89235f77.1520832501492.1520832501492.1521597341669.2&__hssc=64163184.2.1521597341669&__hsfp=2043253899) |  [cardano.org](https://www.cardano.org/en/home/)| |
+| DASH | [Whitepaper]() | - | |
+| Decred | [Whitepaper](https://decred.org/research/buterin2014.pdf) | - | |
+| Dogecoin | [Whitepaper]() | [dogecoin.com](http://dogecoin.com/) | |
+| EOS | [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/) | |
+| Ethereum Classic | [Whitepaper]() | - | |
+| Golem | [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) | [golem.network](https://golem.network/) | |
+| ICON | [Whitepaper]() | - | |
+| IOTA | [Whitepaper]() | - | |
+| LISK | [Whitepaper](https://lisk.io/) | - | |
+| Litecoin | - | [litecoin.org](https://litecoin.org/) | |
+| Monero | [Whitepaper]() | - | |
+| Nano | [Whitepaper](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf) | [Nano.org](https://nano.org/en) | |
+| NEM | [Whitepaper]() | - | |
+| NEO | [Whitepaper]() | - | |
+| OmiseGO | [Whitepaper]() | - | |
+| Qtum | [Whitepaper]() | - | |
+| Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | |
+| SALT | [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) | - | |
+| Siacoin | [Whitepaper](https://sia.tech/sia.pdf) | [sia.tech](https://sia.tech/) | |
+| Stellar | [Whitepaper]() | - | |
+| Tether | [Whitepaper]() | - | |
+| TRON | [Whitepaper]() | - | |
+| VeChain | [Whitepaper]() | - | |
+| Zcash | [Whitepaper]() | - | |
 
 Additional cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 
