@@ -92,7 +92,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 ## Scaling
 ### Vertical (Improving Machine Power)
 #### Difficulty
-#### Block Size Debate
+#### Block Size 
 #### SegWit
 #### Lightning and Payment Channels
 
@@ -171,6 +171,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | DigixDAO | [Whitepaper]() | [digix.global](https://digix.global/dgd/) | Crowdfunding |
 | EOS | [Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md) | [eos.io](https://eos.io/) | 3rd gen crypto + WebAssembly |
 | Ethereum Classic | [Whitepaper](https://coss.io/documents/white-papers/ethereum-classic.pdf) | [ethereumclassic.github.io](https://ethereumclassic.github.io/) | Ethereum's Fork from DAO Attack |
+| Gas |  |  | Fees off of NEO |
 | Golem | [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) | [golem.network](https://golem.network/) | Market place for idle computer power |
 | ICON | [Whitepaper](https://icon.foundation/resources/whitepaper/ICON-Whitepaper-EN-Draft.pdf) | [icon.foundation](https://icon.foundation/) | South Korea's Ethereum |
 | IOTA | [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) | [iota.org](https://iota.org/) | DAG + IoT |
@@ -185,7 +186,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | OmiseGO | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/OmiseGO-Whitepaper.pdf) | [omisego.network](https://omisego.network/) | |
 | Populous | [Whitepaper](https://populous.co/populous_whitepaper.pdf) | [qtum.org](https://populous.co/) | Invoice trading |
 | Qtum | [Whitepaper](https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf) | [qtum.org](https://qtum.org/en/) | Merging Bitcoin and Ethereum |
-| RChain | [Whitepaper](https://media.readthedocs.org/pdf/rchain-architecture/stable/rchain-architecture.pdf) | [rchain.coop](https://www.rchain.coop/) | .  |
+| RChain | [Whitepaper](https://media.readthedocs.org/pdf/rchain-architecture/stable/rchain-architecture.pdf) | [rchain.coop](https://www.rchain.coop/) | . |
 | Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | Bitcoin for Banks |
 | SALT | [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) | [saltlending.com](https://www.saltlending.com/) | Cryptocurrency Backed Loans |
 | Siacoin | [Whitepaper](https://sia.tech/sia.pdf) | [sia.tech](https://sia.tech/) | |
@@ -193,14 +194,14 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Stratis | [Whitepaper](https://stratisplatform.com/files/Stratis_Whitepaper.pdf) | [stratisplatform.com](https://stratisplatform.com/) | . |
 | Stellar | [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) | [stellar.org](https://www.stellar.org/) | Ripple's speedy little brother|
 | Steem | [Whitepaper](https://steem.io/SteemWhitePaper.pdf) | [steem.com](https://steemit.com/) | Decentralized Social Media |
-| Storj | [Whitepaper](https://storj.io/storj.pdf) |  | Marketplace for storage space |
+| Storj | [Whitepaper](https://storj.io/storj.pdf) | [storj.io](https://storj.io/) | Distributed Cloud Storj |
 | TenX | [Whitepaper](https://www.tenx.tech/whitepaper/tenx_whitepaper_final.pdf) | [tenx.tech](https://www.tenx.tech/) | Credit Card for Cryptocurrencies |
 | Tether | [Whitepaper](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) | [tether.to](https://tether.to/) | Stable coin (1 USDS = 1 USD |
 | TRON | - | [tron.network](https://tron.network/en.html) |  |
 | VeChain | - | [vechain.org](https://www.vechain.org/) | Blockchain + Luxury Items |
 | Waltonchain | [Whitepaper](https://www.waltonchain.org/doc/Waltonchain-whitepaper_en_20180208.pdf) | [waltonchain.org](https://www.waltonchain.org/index.html) | IoT on Blockchain |
 | Waves | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | [wavesplatform.com](https://wavesplatform.com/company) | Consulting + Crowdsourcing |
-| Vertcoin | - | [vertcoin.org](https://vertcoin.org/) | |
+| Vertcoin | - | [vertcoin.org](https://vertcoin.org/) | ASIC Resistant Crypto |
 | Zcash | - | [z.cash](https://z.cash/) | Shielded (Homomorphically Hidden) Transactions |
 
 Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
@@ -219,8 +220,8 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 
 
 ### Significant Articles 
-* Fat Protocol - [Post](http://www.usv.com/blog/fat-protocols)
-* Naval Ravikant [The Internet Money](https://startupboy.com/2013/11/07/bitcoin-the-internet-of-money/)
+* [Fat Protocol](http://www.usv.com/blog/fat-protocols)
+* [Naval Ravikant's The Internet Money](https://startupboy.com/2013/11/07/bitcoin-the-internet-of-money/)
 * Muneeb Ali's [Blockstack: A Global Naming and Storage System
 Secured by Blockchains](https://blockstack.org/blockstack_usenix16.pdf)
 * Joesph Poon's [Blockstack: A Global Naming and Storage System
@@ -299,7 +300,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * [Marc Andreesen](https://twitter.com/pmarca?lang=en)
 * [Max Keiser](https://twitter.com/maxkeiser?lang=en)
 * [Michael Novogratz](https://twitter.com/novogratz?lang=en)
-* [Muneeb Ali](https://twitter.com/muneeb?lang=en)
+* [Muneeb Ali](https://twitter.com/muneeb?lang=en) 
 * [Naval Ravikant](https://twitter.com/naval?lang=en)
 * [Nick Szabo](https://twitter.com/NickSzabo4?lang=en)
 * [Patrick Byrne](https://twitter.com/OverstockCEO?lang=en)
