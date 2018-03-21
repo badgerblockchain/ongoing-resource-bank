@@ -28,6 +28,8 @@ A list of publicly available resources for everything your heart desires... Plea
 
 - [Medium, Youtube, and Podcast Channels](#medium-youtube-and-podcast-channels)
 
+- [Visual Websites](#visual-websites)
+
 - [Influencers](#influencers)
 
 - [Resources in Wisconsin](#resources-in-wisconsin)
@@ -109,6 +111,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 ## Privacy and Anonymity
 * KYC/AML
 * [Monero](https://getmonero.org/resources/about/)
+
 * [Zcash](https://z.cash/)
 * CoinJoin
 * TumbleBit
@@ -126,7 +129,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * HyperLedger
 * JP Morgan's Quorum
 * Everledger
-* ConsenSys
+* [ConsenSys](https://new.consensys.net/labs/)
 * [EEA](https://entethalliance.org/)
 
 
@@ -242,6 +245,10 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * [Invest like the Best](http://investorfieldguide.com/podcast/)
 * [The Bitcoin Podcast Network](https://thebitcoinpodcast.com/)
 * [Unchained](http://unchainedpodcast.co/)
+
+
+## Visual Websites
+* 
 
 
 ## Influencers
