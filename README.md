@@ -13,7 +13,7 @@ A list of publicly available resources for everything your heart desires...
 - [Enterprise Blockchains](#enterprise-blockchains)
 - [Before Bitcoin](#before-bitcoin)
 - [Whitepapers and Websites](#whitepapers-and-websites)
-- [Talks and Documentaries](#talks,-documentaries)
+- [Talks and Documentaries](#talks-and-documentaries)
 - [Medium, Twitter, Youtube, & Podcast Channels](#medium-twitter-youtube-and-podcasts-channels)
 - [Resources in Madison](#resources-in-madison)
 
