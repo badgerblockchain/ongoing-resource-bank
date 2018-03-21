@@ -14,7 +14,7 @@ A list of publicly available resources for everything your heart desires...
 - [Before Bitcoin](#before-bitcoin)
 - [White Papers/Websites](#white-papers-/-websites)
 - [Talks, Documentaries](#talks,-documentaries)
-- [Medium, Twitter, Youtube, & Podcasts](#Medium,-Twitter,-Youtube,-&-Podcasts)
+- [Medium, Twitter, Youtube, & Podcast Channels](#medium,-twitter,-youtube,-&-podcasts-channels)
 - [Resources in Madison](#social-media-channels)
 
 
@@ -126,7 +126,7 @@ A list of publicly available resources for everything your heart desires...
 *  
 
 
-## Medium, Twitter, YouTube, Podcasts
+## Medium, Twitter, YouTube, & Podcast Channels
 * Andreas Antonopoulos - [Twitter](https://twitter.com/aantonop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) / [Youtube](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
 
 
