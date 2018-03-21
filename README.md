@@ -109,8 +109,8 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 | Coin/Token    | Paper    | Website | Sentence Description |
 | ------------- | ------------- | ------------- |
-| Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - |
-| Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | - |
+| Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - | | |
+| Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | - | | |
 
 
 
