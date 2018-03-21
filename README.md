@@ -5,6 +5,7 @@ A list of publicly available resources for everything your heart desires... Plea
 - [Bitcoin](#bitcoin)
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
      * Web3
+        * IPFS
 - [Consensus Algorithms](#consensus-algorithms)
 - [Mining](#mining)
 - [Wallets](#wallets)
