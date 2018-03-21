@@ -109,8 +109,8 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 | Coin/Token    | Paper    | Website | Sentence Description |
 | ------------- | ------------- | ------------- |
-| Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) ||
-| Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [Website](https://www.ethereum.org/) |
+| Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - |
+| Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | - |
 
 
 
@@ -120,6 +120,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * Bulletproofs - [](https://eprint.iacr.org/2017/1066.pdf)
 * SNARKS - 
 * STARKS
+
 
 ### Significant Articles and Works
 * Fat Protocol - [Post](http://www.usv.com/blog/fat-protocols)
@@ -136,7 +137,6 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 
 
 ## Talks, Documentaries
-*  
 
 
 ## Medium, Twitter, YouTube, & Podcast Channels
@@ -154,6 +154,3 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 
 
 ## Resources in Madison
-* 
-
-
