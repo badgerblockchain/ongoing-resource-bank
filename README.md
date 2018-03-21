@@ -31,7 +31,6 @@ A list of publicly available resources for everything your heart desires... Plea
    * ASIC Miners
    * Mining Pools
 
-
 - [Wallets](#wallets)
    * Private/Public Key Cryptography
    * Types of Wallets
@@ -39,13 +38,19 @@ A list of publicly available resources for everything your heart desires... Plea
 
 
 - [Scaling](#scaling)
-    * Lightning
-    * SegWit
-    * Raiden
-    * Sharding
-    * Caespar
-    * Sidechains
-    * Tendermint
+   * Vertical (Improve Machine Power)
+      * Difficulty
+      * Block Size Debate
+      * SegWit
+      * Lightning and Payment Channels
+   * Horizontal (Increase # of Machines)
+      * Sharding
+      * Sidechains
+      
+   * Ethereum's Proposals
+      * Raiden
+      * Plasma
+      * Caespar
      
 - [Privacy and Anonymity](#privacy-and-anonymity)
     * KYC/AML
@@ -225,6 +230,7 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 * HashGraph
 * Algorand
 * Tezos
+* Tendermint
 
 
 ### Significant Articles 
