@@ -1,5 +1,5 @@
 # Resource-Bank
-A list of publicly available resources for everything your heart desires...
+A list of publicly available resources for everything your heart desires... Please feel free to make edits!
 
 # Table of Contents
 
@@ -179,9 +179,11 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * Brian Armstrong 
 * Brock Pierce
 * Cameron Winklevoss
+* Changpeng Zhao
 * Charles Hoskinson
 * Charlie Lee
 * Charlie Shrem
+* Dan Larimer
 * Dan Morehead
 * Don Tapscott
 * Elizabeth Stark
@@ -194,6 +196,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * Jackson Palmer
 * Jamie Dimon
 * Jameson Lopp
+* Jed McCaleb 
 * Jeff Garzik
 * Jeremy Gardner
 * Jihan Wu
@@ -203,6 +206,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * Juan Benet
 * Laura Shin
 * Linda Xie
+* Matthew Roszak
 * Marc Andreesen
 * Max Keiser
 * Michael Novogratz
@@ -211,6 +215,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * Nick Szabo
 * Patrick Byrne
 * Pieter Wuille
+* Riccardo Spagni
 * Richard Heart
 * Roger Ver
 * Satoshi Nakamoto
