@@ -1,4 +1,4 @@
-# Resource-Bank
+# Ongoing-Resource-Bank
 A list of publicly available resources for everything your heart desires... Please feel free to make edits!
 
 # Table of Contents
