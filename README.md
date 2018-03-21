@@ -3,91 +3,36 @@ A list of publicly available resources for everything your heart desires... Plea
 
 # Table of Contents
 - [Bitcoin and Blockchain Basics](#bitcoin-and-blockchain-basics)
-   * Transactions
-   * UTXO Model vs Account Model
-   * Bitcoin Block Anatomy
-   * Consensus
-   * Hash Functions
-   * Hard & Soft Forks
     
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
-   * Smart Contracts
-   * EVM
-   * Gas
-   * Web3
-   * Cryptokitties
         
 - [Consensus Algorithms](#consensus-algorithms)
-    * FLP, CAP, and Byzantine Generals Problem
-    * Proof of Work
-    * Proof of Stake
-    * Proof of ...
-    * DAGs
-    
-    
     
 - [Mining](#mining)
-   * What are Miners solving
-   * Block Reward
-   * Orphan & Stale Blocks
-   * ASIC Miners
-   * Mining Pools
 
 - [Wallets](#wallets)
-   * Private/Public Key Cryptography
-   * Types of Wallets
-
 
 - [Scaling](#scaling)
-   * Vertical Proposals (Improve Machine Power)
-   * Horizontal Proposals (Increase # of Machines)
-   * Ethereum's Proposals
      
 - [Privacy and Anonymity](#privacy-and-anonymity)
-    * KYC/AML
-    * Taint Analysis
-    * Privacy-Focused Altcoins
-    * Monero
-    * Zcash
-    * Mixers
     
 - [Hacking and Attacks](#hacking-and-attacks)
-    * Sybil Attacks
-    * Eclipse Attack
-    * DAO Hack
-    * Parity Hack
-    * Nothing-at-Stake
     
 - [Enterprise Blockchains](#enterprise-blockchains)
-    * R3's Corda
-    * HyperLedger
-    * Quorum
-    * Everledger
-    * ConsenSys
-    * EEA
     
 - [Before the Rise of Cryptocurrencies...](#before-bitcoin)
-   * David Chaum's Digicash
-   * Nick Szabo's [Bit Gold](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
-   * Wei Dei's [B Money](http://www.weidai.com/bmoney.txt)
-   * Adam Back's [HashCash](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
-   * Hal Finney's [RPOW](https://cryptome.org/rpow.htm)
-   * Cypherpunk's
-   * Silk Road
-   * Mt. GOX
-   
-
-
 
 - [Whitepapers and Websites](#whitepapers-and-websites)
+
 - [Talks and Documentaries](#talks-and-documentaries)
+
 - [Medium, Youtube, and Podcast Channels](#medium-youtube-and-podcast-channels)
+
 - [Influencers](#influencers)
+
 - [Resources in Wisconsin](#resources-in-wisconsin)
 
-
 ---
-
 
 ## Bitcoin and Blockchain Basics
 * [Whitepaper](https://bitcoin.org/bitcoin.pdf)
