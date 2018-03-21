@@ -6,7 +6,6 @@ A list of publicly available resources for everything your heart desires...
 - [Bitcoin](#bitcoin)
 - [Ethereum & Smart Contracts](#ethereum-&-smart-contracts)
 - [Consensus Algorithms](#consensus-algorithms)
-      * POW
 - [Mining](#mining)
 - [Wallets](#wallets)
 - [Scaling](#scaling)
@@ -107,8 +106,8 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * 0x - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) / [Website](https://0xproject.com/)
 * SALT - [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) / [Website](https://www.saltlending.com/)
 
-| Coin/Token    | Whitepaper    | Website | Sentence Description |
-| ------------- | :-------------: | :-------------: | ------------- |
+| :Coin/Token:    | :Whitepaper:    | :Website: | :Sentence Description: |
+| :-------------: | :-------------: | :-------------: | :-------------: |
 | Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
 | Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [ethereum.org](https://www.ethereum.org/) | |
 | Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | |
