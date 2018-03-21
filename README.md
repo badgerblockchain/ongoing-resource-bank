@@ -9,7 +9,7 @@ A list of publicly available resources for everything your heart desires... Plea
 - [Wallets](#wallets)
 - [Scaling](#scaling)
 - [Privacy and Anonymity](#privacy-and-anonymity)
-- [Hacking, Attacks, and Sybil Attacks](#hacking-attacks-and-sybil-attacks)
+- [Hacking and Attacks](#hacking-and-attacks)
 - [Enterprise Blockchains](#enterprise-blockchains)
 - [Before Bitcoin](#before-bitcoin)
 - [Whitepapers and Websites](#whitepapers-and-websites)
@@ -72,7 +72,8 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * MimbleWimble
 
 
-## Hacking, Attacks, and Sybil Attacks
+## Hacking and Attacks 
+* Sybil Attacks
 * Eclipse Attacks
 
 
@@ -216,29 +217,29 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * [John McAfee]()
 * [Joseph Lubin]()
 * [Juan Benet]()
-* [Laura Shin]()
-* [Linda Xie]()
-* [Matthew Roszak]()
-* [Marc Andreesen]()
-* [Max Keiser]()
+* [Laura Shin](https://twitter.com/laurashin?lang=en)
+* [Linda Xie](https://twitter.com/ljxie?lang=en)
+* [Matthew Roszak](https://twitter.com/MatthewRoszak?lang=en)
+* [Marc Andreesen](https://twitter.com/pmarca?lang=en)
+* [Max Keiser](https://twitter.com/maxkeiser?lang=en)
 * [Michael Novogratz]()
-* [Muneeb Ali]()
+* [Muneeb Ali](https://twitter.com/muneeb?lang=en)
 * [Naval Ravikant]()
-* [Nick Szabo]()
+* [Nick Szabo](https://twitter.com/NickSzabo4?lang=en)
 * [Patrick Byrne]()
 * [Pieter Wuille]()
 * [Riccardo Spagni]()
-* [Richard Heart]()
-* [Roger Ver]()
+* [Richard Heart](https://twitter.com/RichardHeartWin?lang=en)
+* [Roger Ver](https://twitter.com/rogerkver?lang=en)
 * Satoshi Nakamoto... Not very important... 
 * [Silvio Micali]()
 * [Tim Draper](https://twitter.com/TimDraper)
-* [Tone Vays]()
-* [Tyler Winklevoss]()
-* [Vinny Lingham]()
-* [Vitalik Buterin]()
-* [Will Warren]()
-* [Vlad Zamfir]()
+* [Tone Vays](https://twitter.com/ToneVays?lang=en)
+* [Tyler Winklevoss](https://twitter.com/tylerwinklevoss?lang=en)
+* [Vinny Lingham](https://twitter.com/VinnyLingham?lang=en)
+* [Vitalik Buterin](https://twitter.com/VitalikButerin?lang=en)
+* [Will Warren](https://twitter.com/willwarren89?lang=en)
+* [Vlad Zamfir](https://twitter.com/VladZamfir?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 * [Yao Qian]()
 * [Zooko Wilcox](https://twitter.com/zooko?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
