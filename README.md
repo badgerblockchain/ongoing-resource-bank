@@ -132,12 +132,12 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 
 ## Enterprise Blockchains
-* R3's Corda
-* HyperLedger
-* JP Morgan's Quorum
-* Everledger
 * [ConsenSys](https://new.consensys.net/labs/)
+* [Corda](https://www.r3.com/)
 * [EEA](https://entethalliance.org/)
+* Everledger
+* HyperLedger
+* [Quorum](https://www.jpmorgan.com/global/Quorum)
 
 
 ## Before the Rise of Cryptocurrencies...
@@ -224,6 +224,7 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 * [Naval Ravikant's The Internet Money](https://startupboy.com/2013/11/07/bitcoin-the-internet-of-money/)
 * Muneeb Ali's [Blockstack: A Global Naming and Storage System
 Secured by Blockchains](https://blockstack.org/blockstack_usenix16.pdf)
+(https://www.cs.princeton.edu/courses/archive/spring17/cos518/presentations/2017-04-26-blockstack-muneeb.pdf) a 
 * Joesph Poon's [Blockstack: A Global Naming and Storage System
 Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
 * Eclipse Attacks [on Bitcoin’s Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf)
