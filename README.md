@@ -94,18 +94,20 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 #### Difficulty
 #### Block Size 
 #### SegWit
-#### Lightning and Payment Channels
-
-### Horizontal (Increasing # of Machines)
-#### Sharding
-#### Sidechains
       
 ### Ethereum's Proposals
 #### Raiden
-#### Plasma
+
+### Layer 1
+#### Sharding
+#### Sidechains
+
+### Layer 2
 #### Caespar
-
-
+#### Lightning and Payment Channels
+#### Plasma
+#### Raiden
+#### Truebit
 
 
 ## Privacy and Anonymity
@@ -175,7 +177,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Golem | [Whitepaper](http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf) | [golem.network](https://golem.network/) | Market place for idle computer power |
 | ICON | [Whitepaper](https://icon.foundation/resources/whitepaper/ICON-Whitepaper-EN-Draft.pdf) | [icon.foundation](https://icon.foundation/) | South Korea's Ethereum |
 | IOTA | [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) | [iota.org](https://iota.org/) | DAG + IoT |
-| LISK | [Whitepaper]() | [lisk.io](https://lisk.io/) | Javascript + sidechains |
+| LISK | - | [lisk.io](https://lisk.io/) | Javascript + Sidechains |
 | Litecoin | - | [litecoin.org](https://litecoin.org/) | Speedy Bitcoin |
 | Loopring | [Whitepaper](https://github.com/Loopring/whitepaper/blob/master/en_whitepaper.pdf) | [loopring.org](https://loopring.org/en/index.html) | Decetralized Exchange |
 | Monacoin |  | [monacoin.org](https://monacoin.org/) | Japan's Dogecoin |
@@ -213,7 +215,7 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 * [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf) - 
 * SNARKS - 
 * STARKS - 
-* HashGraph
+* [HashGraph](https://www.swirlds.com/whitepapers/)
 * Algorand
 * Tezos
 * Tendermint
