@@ -90,13 +90,10 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 
 ## Scaling
-### Vertical (Improving Machine Power)
+### Vertical 
 #### Difficulty
 #### Block Size 
 #### SegWit
-      
-### Ethereum's Proposals
-#### Raiden
 
 ### Layer 1
 #### Sharding
@@ -104,7 +101,8 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 ### Layer 2
 #### Caespar
-#### Lightning and Payment Channels
+#### Lightning 
+#### Payment Channels
 #### Plasma
 #### Raiden
 #### Truebit
@@ -130,7 +128,6 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 ## Hacking and Attacks 
 * Sybil Attacks
 * Eclipse Attacks
-
 
 
 ## Enterprise Blockchains
@@ -212,19 +209,19 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 
 ### Additional Protocols
 * [RSK (rootstock)](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) - [Website](https://www.rsk.co/)
-* [MimbleWimble](https://scalingbitcoin.org/papers/mimblewimble.txt) - 
-* [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf) - 
-* SNARKS - 
-* STARKS - 
+* [MimbleWimble](https://scalingbitcoin.org/papers/mimblewimble.txt)
+* [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf) 
+* SNARKS
+* [STARKS](https://eprint.iacr.org/2018/046.pdf) 
 * [HashGraph](https://www.swirlds.com/whitepapers/)
-* Algorand
+* [Algorand](https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf)
 * Tezos
 * Tendermint
 
 
 ### Significant Articles 
-* [Fat Protocol](http://www.usv.com/blog/fat-protocols)
-* [Naval Ravikant's The Internet Money](https://startupboy.com/2013/11/07/bitcoin-the-internet-of-money/)
+* [Fat Protocol](http://www.usv.com/blog/fat-protocols), Joel Monegro
+* [Bitcoin - The Internet Money](https://startupboy.com/2013/11/07/bitcoin-the-internet-of-money/), Naval Ravikant
 * [Blockstack: A Global Naming and Storage System
 Secured by Blockchains](https://blockstack.org/blockstack_usenix16.pdf), Muneeb Ali
 (https://www.cs.princeton.edu/courses/archive/spring17/cos518/presentations/2017-04-26-blockstack-muneeb.pdf) 
