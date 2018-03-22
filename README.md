@@ -137,8 +137,8 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 * [ConsenSys](https://new.consensys.net/labs/)
 * [Corda](https://www.r3.com/)
 * [EEA](https://entethalliance.org/)
-* Everledger
-* HyperLedger
+* [Everledger](https://www.everledger.io/)
+* [Hyperledger](https://www.hyperledger.org/)
 * [Quorum](https://www.jpmorgan.com/global/Quorum)
 
 
@@ -195,7 +195,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 | Siacoin | [Whitepaper](https://sia.tech/sia.pdf) | [sia.tech](https://sia.tech/) | |
 | Status | [Whitepaper](https://status.im/whitepaper.pdf) | [status.im](https://status.im/) | . |
 | Stratis | [Whitepaper](https://stratisplatform.com/files/Stratis_Whitepaper.pdf) | [stratisplatform.com](https://stratisplatform.com/) | . |
-| Stellar | [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) | [stellar.org](https://www.stellar.org/) | Ripple's speedy little brother|
+| Stellar | [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) | [stellar.org](https://www.stellar.org/) | Speedy Bitcoin for Banks |
 | Steem | [Whitepaper](https://steem.io/SteemWhitePaper.pdf) | [steem.com](https://steemit.com/) | Decentralized Social Media |
 | Storj | [Whitepaper](https://storj.io/storj.pdf) | [storj.io](https://storj.io/) | Distributed Cloud Storj |
 | TenX | [Whitepaper](https://www.tenx.tech/whitepaper/tenx_whitepaper_final.pdf) | [tenx.tech](https://www.tenx.tech/) | Credit Card for Cryptocurrencies |
@@ -211,7 +211,7 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 
 
 ### Additional Protocols
-* RSK (rootstock) - [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) / [Website](https://www.rsk.co/)
+* [RSK (rootstock)](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) - [Website](https://www.rsk.co/)
 * [MimbleWimble](https://scalingbitcoin.org/papers/mimblewimble.txt) - 
 * [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf) - 
 * SNARKS - 
@@ -225,14 +225,14 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 ### Significant Articles 
 * [Fat Protocol](http://www.usv.com/blog/fat-protocols)
 * [Naval Ravikant's The Internet Money](https://startupboy.com/2013/11/07/bitcoin-the-internet-of-money/)
-* Muneeb Ali's [Blockstack: A Global Naming and Storage System
-Secured by Blockchains](https://blockstack.org/blockstack_usenix16.pdf)
+* [Blockstack: A Global Naming and Storage System
+Secured by Blockchains](https://blockstack.org/blockstack_usenix16.pdf), Muneeb Ali
 (https://www.cs.princeton.edu/courses/archive/spring17/cos518/presentations/2017-04-26-blockstack-muneeb.pdf) a 
-* Joesph Poon's [Blockstack: A Global Naming and Storage System
-Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf)
-* Eclipse Attacks [on Bitcoin’s Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf)
-* Marc Andreesen - [Why Bitcoin Matters](https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/)
-* Eric Voorhee - [The Role of Bitcoin as Money](http://moneyandstate.com/role-bitcoin-money/)
+* [Blockstack: A Global Naming and Storage System
+Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf), Joesph Poon
+* [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf)
+* [Why Bitcoin Matters](https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/), Marc Andreesen
+* [The Role of Bitcoin as Money](http://moneyandstate.com/role-bitcoin-money/), Eric Voorhee
 
 
 
