@@ -228,8 +228,6 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 * [Bitcoin - The Internet Money](https://startupboy.com/2013/11/07/bitcoin-the-internet-of-money/), Naval Ravikant
 * [Blockstack: A Global Naming and Storage System
 Secured by Blockchains](https://blockstack.org/blockstack_usenix16.pdf), Muneeb Ali
-* [Blockstack: A Global Naming and Storage System
-Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf), Joesph Poon
 * [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf), Ethan Heilman, Alison Kendler
 * [Why Bitcoin Matters](https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/), Marc Andreesen
 * [The Role of Bitcoin as Money](http://moneyandstate.com/role-bitcoin-money/), Eric Voorhee
