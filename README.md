@@ -272,18 +272,18 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf), 
 
 
 ## Influencers
-* [Adam Back](https://twitter.com/adam3us)
-* [Alex Tapscott](https://twitter.com/alextapscott?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-* [Amber Baldet](https://twitter.com/AmberBaldet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-* [Andreas Antonopoulos](https://twitter.com/aantonop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-* [Andrew Poelstra](https://www.weusecoins.com/andrew-poelstra/)
-* [Brad Garlinghouse](https://twitter.com/bgarlinghouse)
+* [Adam Back](https://twitter.com/adam3us), Cypherpunk, Inventor of Hashcash, CEO of Blockstream
+* [Alex Tapscott](https://twitter.com/alextapscott?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), Author, VC
+* [Amber Baldet](https://twitter.com/AmberBaldet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) Quorum Lead Dev
+* [Andreas Antonopoulos](https://twitter.com/aantonop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) Bitcoin author & speaker 
+* [Andrew Poelstra](https://www.weusecoins.com/andrew-poelstra/), Blockstream Mathmatician, Recognized for work on MimbleWim
+* [Brad Garlinghouse](https://twitter.com/bgarlinghouse), Ripple CEO
 * [Brian Armstrong](https://twitter.com/brian_armstrong?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-* [Brock Pierce](https://twitter.com/brockpierce)
+* [Brock Pierce](https://twitter.com/brockpierce), VC, Partner for Blockchain Capital, EOS, Tether, & Duck
 * [Cameron Winklevoss](https://twitter.com/winklevoss?lang=en)
 * [Changpeng Zhao](https://twitter.com/cz_binance?lang=en)
 * [Charles Hoskinson](https://twitter.com/IOHK_Charles?lang=en)
-* [Charlie Lee](https://twitter.com/SatoshiLite)
+* [Charlie Lee](https://twitter.com/SatoshiLite) Creator of Litecoin
 * [Charlie Shrem](https://twitter.com/CharlieShrem)
 * [Dan Larimer](https://twitter.com/DanLarimer)
 * [Dan Morehead](https://twitter.com/dan_pantera)
@@ -294,7 +294,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf), 
 * [Gavin Andresen](https://twitter.com/gavinandresen?lang=en)
 * [Gavin Wood](https://twitter.com/gavofyork?lang=en)
 * [Gregory Maxwell](https://www.weusecoins.com/gregory-maxwell-bitcoin-expert/)
-* [Jackson Palmer](https://twitter.com/ummjackson)
+* [Jackson Palmer](https://twitter.com/ummjackson), Creator of Dogecoin
 * [Jameson Lopp](https://twitter.com/lopp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 * [Jed McCaleb](https://twitter.com/JedMcCaleb)
 * [Jeff Garzik](https://twitter.com/jgarzik?lang=en)
