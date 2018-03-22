@@ -315,18 +315,18 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf), 
 * [Nick Szabo](https://twitter.com/NickSzabo4?lang=en)
 * [Patrick Byrne](https://twitter.com/OverstockCEO?lang=en)
 * [Pieter Wuille](https://twitter.com/pwuille?lang=en)
-* [Riccardo Spagni](https://twitter.com/fluffypony?lang=en)
-* [Richard Heart](https://twitter.com/RichardHeartWin?lang=en)
-* [Roger Ver](https://twitter.com/rogerkver?lang=en) - 
+* [Riccardo Spagni](https://twitter.com/fluffypony?lang=en) - Monero Lead Dev
+* [Richard Heart](https://twitter.com/RichardHeartWin?lang=en) - Bitcoin Maximalist
+* [Roger Ver](https://twitter.com/rogerkver?lang=en) - Investor, Enjoys Bitcoin Cash
 * Satoshi Nakamoto... Not important at all... 
 * [Silvio Micali](https://people.csail.mit.edu/silvio/) - MIT Professor, Founder of Algorand
-* [Tim Draper](https://twitter.com/TimDraper) - VC at DFJ
-* [Tone Vays](https://twitter.com/ToneVays?lang=en) - Bitcoin Maxamilist, Trader
+* [Tim Draper](https://twitter.com/TimDraper) - VC at [DFJ](https://dfj.com/)
+* [Tone Vays](https://twitter.com/ToneVays?lang=en) - Bitcoin maximalist
 * [Tyler Winklevoss](https://twitter.com/tylerwinklevoss?lang=en) - CEO of [Gemini.com](https://gemini.com/)
 * [Vinny Lingham](https://twitter.com/VinnyLingham?lang=en) - CEO of [Civic](https://www.civic.com/)
 * [Vitalik Buterin](https://twitter.com/VitalikButerin?lang=en) - Founder of Ethereum
-* [Will Warren](https://twitter.com/willwarren89?lang=en) - Researcher with the Ethereum Foundation, Known for work on Caespar
-* [Vlad Zamfir](https://twitter.com/VladZamfir?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [Will Warren](https://twitter.com/willwarren89?lang=en) - CEO 0x
+* [Vlad Zamfir](https://twitter.com/VladZamfir?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - Researcher with the Ethereum Foundation, Caespar Dev
 * [Zooko Wilcox](https://twitter.com/zooko?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - Early work on Digicash, Zcash Co-Founder
 
 
