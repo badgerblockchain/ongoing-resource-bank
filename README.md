@@ -12,6 +12,8 @@ A list of publicly available resources for everything your heart desires... Plea
 
 - [Wallets](#wallets)
 
+- [Cryptoeconomics](#cryptoeconomics)
+
 - [Scaling](#scaling)
      
 - [Privacy and Anonymity](#privacy-and-anonymity)
@@ -88,6 +90,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 #### Multi-Sig
 
 
+## Cryptoeconomics
 
 
 ## Scaling
