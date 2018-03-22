@@ -50,7 +50,7 @@
 * [Silvio Micali](https://people.csail.mit.edu/silvio/) - MIT Professor, Founder of Algorand
 * [Tim Draper](https://twitter.com/TimDraper) - VC at DFJ
 * [Tone Vays](https://twitter.com/ToneVays?lang=en) - Bitcoin maximalist
-* [Tyler Winklevoss](https://twitter.com/tylerwinklevoss?lang=en) - CEO of [Gemini.com](https://gemini.com/)
+* [Tyler Winklevoss](https://twitter.com/tylerwinklevoss?lang=en) - CEO of Gemini
 * [Vinny Lingham](https://twitter.com/VinnyLingham?lang=en) - CEO of [Civic](https://www.civic.com/)
 * [Vitalik Buterin](https://twitter.com/VitalikButerin?lang=en) - Founder of Ethereum
 * [Will Warren](https://twitter.com/willwarren89?lang=en) - CEO of 0x
