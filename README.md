@@ -279,11 +279,11 @@ Secured by Blockchains](https://blockstack.org/blockstack_usenix16.pdf), Muneeb 
 * [Andreas Antonopoulos](https://twitter.com/aantonop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - Bitcoin author & speaker 
 * [Andrew Poelstra](https://www.weusecoins.com/andrew-poelstra/) - Blockstream Mathmatician, Recognized for work on MimbleWim
 * [Brad Garlinghouse](https://twitter.com/bgarlinghouse) - Ripple CEO
-* [Brian Armstrong](https://twitter.com/brian_armstrong?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-* [Brock Pierce](https://twitter.com/brockpierce) - VC, Partner for Blockchain Capital, EOS, Tether, & Duck
-* [Cameron Winklevoss](https://twitter.com/winklevoss?lang=en)
-* [Changpeng Zhao](https://twitter.com/cz_binance?lang=en)
-* [Charles Hoskinson](https://twitter.com/IOHK_Charles?lang=en)
+* [Brian Armstrong](https://twitter.com/brian_armstrong?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - CEO of Coinbase
+* [Brock Pierce](https://twitter.com/brockpierce) - VC & Partner for Blockchain Capital, EOS, Tether, & Duck
+* [Cameron Winklevoss](https://twitter.com/winklevoss?lang=en) - Co-Founder of Gemini
+* [Changpeng Zhao](https://twitter.com/cz_binance?lang=en) - CEO of Binance
+* [Charles Hoskinson](https://twitter.com/IOHK_Charles?lang=en) 
 * [Charlie Lee](https://twitter.com/SatoshiLite) - Creator of Litecoin
 * [Charlie Shrem](https://twitter.com/CharlieShrem)
 * [Dan Larimer](https://twitter.com/DanLarimer)
