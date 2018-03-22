@@ -30,9 +30,9 @@ A list of publicly available resources for everything your heart desires... Plea
 
 - [Medium, Youtube, and Podcast Channels](#medium-youtube-and-podcast-channels)
 
-- [Visual Websites](#visual-websites)
-
 - [Influencers](#influencers)
+
+- [Visual Websites](#visual-websites)
 
 - [Resources in Wisconsin](#resources-in-wisconsin)
 
@@ -261,15 +261,6 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf), 
 * [Unchained](http://unchainedpodcast.co/)
 
 
-## Visual Websites
-* [bitnodes.earn.com](https://bitnodes.earn.com/nodes/network-map/?ipv6_bits=56)
-* [bitbonkers.com](https://bitbonkers.com/)
-* [blockchain.info](https://blockchain.info/)
-* [coin360.io](https://coin360.io/)
-* [ethviewer.live](http://ethviewer.live/)
-* [ethgasstation.info](https://ethgasstation.info/)
-* [mapofcoin.com](http://mapofcoins.com/)
-
 
 ## Influencers
 * [Adam Back](https://twitter.com/adam3us) - Cypherpunk, Inventor of Hashcash, CEO of Blockstream
@@ -318,7 +309,7 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf), 
 * [Riccardo Spagni](https://twitter.com/fluffypony?lang=en) - Monero Lead Dev
 * [Richard Heart](https://twitter.com/RichardHeartWin?lang=en) - Bitcoin Maximalist
 * [Roger Ver](https://twitter.com/rogerkver?lang=en) - Investor, Enjoys Bitcoin Cash
-* Satoshi Nakamoto... Not important at all... 
+* Satoshi Nakamoto... Not important ... 
 * [Silvio Micali](https://people.csail.mit.edu/silvio/) - MIT Professor, Founder of Algorand
 * [Tim Draper](https://twitter.com/TimDraper) - VC at [DFJ](https://dfj.com/)
 * [Tone Vays](https://twitter.com/ToneVays?lang=en) - Bitcoin maximalist
@@ -328,6 +319,16 @@ Secured by Blockchains](https://lightning.network/lightning-network-paper.pdf), 
 * [Will Warren](https://twitter.com/willwarren89?lang=en) - CEO 0x
 * [Vlad Zamfir](https://twitter.com/VladZamfir?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - Researcher with the Ethereum Foundation, Caespar Dev
 * [Zooko Wilcox](https://twitter.com/zooko?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - Early work on Digicash, Zcash Co-Founder
+
+
+## Visual Websites
+* [bitnodes.earn.com](https://bitnodes.earn.com/nodes/network-map/?ipv6_bits=56)
+* [bitbonkers.com](https://bitbonkers.com/)
+* [blockchain.info](https://blockchain.info/)
+* [coin360.io](https://coin360.io/)
+* [ethviewer.live](http://ethviewer.live/)
+* [ethgasstation.info](https://ethgasstation.info/)
+* [mapofcoin.com](http://mapofcoins.com/)
 
 
 ## Resources in Wisconsin
