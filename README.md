@@ -208,7 +208,7 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 
 
 ### Additional Protocols
-* [RSK (rootstock)](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) - [Website](https://www.rsk.co/)
+* [RSK (rootstock)](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) - [rsk.co](https://www.rsk.co/)
 * [MimbleWimble](https://scalingbitcoin.org/papers/mimblewimble.txt)
 * [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf) 
 * SNARKS
