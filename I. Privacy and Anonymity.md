@@ -12,7 +12,7 @@
 * [Zcash](https://z.cash/)
 * CoinJoin
 * TumbleBit
-* MimbleWimble
+* _ MimbleWimble _
    * [Does MimbleWimble enhance privacy?, Andreas Antonopoulos](https://www.youtube.com/watch?v=paOAgR3LuGI)
    * [Mimblewimble and Scriptless Scripts | Andrew Poelstra (Blockstream) | RWC 2018](https://www.youtube.com/watch?v=ovCBT1gyk9c&t=672s)
    * [MimbleWimble with Andrew Poelstra, SF Developers](https://www.youtube.com/watch?v=aHTRlbCaUyM&t=1847s)
