@@ -1,4 +1,4 @@
-## Before the Rise of Cryptocurrencies...
+# Before the Rise of Cryptocurrencies
 * David Chaum Digicash
 * Nick Szabo's [Bit Gold](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
 * Wei Dei's [B Money](http://www.weidai.com/bmoney.txt)
