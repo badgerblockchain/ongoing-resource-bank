@@ -51,6 +51,7 @@ A list of publicly available resources for everything your heart desires... Plea
 * Smart Contracts
 * EVM
 * Gas
+* Solidity
 * Web3
    * IPFS
    * OpenBazaar
