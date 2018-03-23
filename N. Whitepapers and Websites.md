@@ -1,7 +1,7 @@
 # Whitepapers and Websites
 ## Crypto's
-| Coin/Token    | Whitepaper    | Website | Several Word Description |
-| :-------------: | :-------------: | :-------------: | :-------------: |
+| Coin/Token    | Whitepaper    | Website | Several Word Description | G-Hub Repo
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
 | Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [ethereum.org](https://www.ethereum.org/) | Programmable Money |
 | 0x | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) | [0xproject.com](https://0xproject.com/) | Decentralized Exchange |
