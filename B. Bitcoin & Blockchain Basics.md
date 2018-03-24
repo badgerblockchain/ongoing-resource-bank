@@ -1,5 +1,5 @@
 # Bitcoin and Blockchain Basics
-Created in 2009 by the anonymous user(s) 'Satoshi Nakamoto' during the onslaught of one of the worst modern global financial crisis, Bitcoin, a digitalized networking system built upon economic, cryptographic, and distributed system primitives, looks to provide the user with an alternative peer-to-peer means of exchnage. Initially steeming from liberatarian roots, it is the sole inspiration of the current distributed and decentralized ecosystem we are coming to see from within blockchain technologies. Below, you'll find a high-level over view on what the Bitcoin network consists of.
+Created in 2008 by the anonymous creator(s) 'Satoshi Nakamoto', Bitcoin, a digitalized networking system built upon various economic, cryptographic, and distributed system primitives addresses noteicable flaws within many gov't and central banking institutions by providing an alternative peer-to-peer means of exchange. Initially steeming from libertarian roots after 2009's global financial crisis, Bitcoin is the main inspiration by the current decentralized ecosystem we are just barely seeing from within blockchain technologies. Below, you'll find a high-level overview on what the Bitcoin network consists of.
 
 * Whitepaper and High Level Overviews(#whitepaper)
 
