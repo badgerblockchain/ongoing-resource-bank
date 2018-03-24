@@ -38,19 +38,23 @@ Created in 2009 by the anonymous user(s) 'Satoshi Nakamoto' during the onslaught
 ## Mining
 
 ## Characteristics of Good Currency
-* While there is no definitive rule, there are 10 general concepts that a currency should look to address:
+While there is no definitive rule, there are a handful of general qualities a currency system needs to address:
 
- 1. Durablility
+ 1. Acceptability
+  * Do others even accept the currency in the first place? Because buying groceries with Monopoly money won't cut it for some.
+ 2. Durablility
+  * The currency should not easily deteriorate vhw0peihv0 we
+ 3. Portability
+  * Currency needs to be used so it can be easily and economically transported from one location to the next
+ 4. Recognizable
+  * 
+ 5. Stable
+  * 
+ 6. Divisibility
+  * 
+ 7. Homogeneity
+  * 
+ 8. Difficult to Counterfiet
   *
- 2. Acceptability
-  *
- 3.
- 4.
- 5.
- 6.
- 7.
- 8.
- 9.
- 10.
 
 ## Hard & Soft Forks
