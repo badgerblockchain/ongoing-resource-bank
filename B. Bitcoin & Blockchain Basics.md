@@ -42,21 +42,21 @@ Created in 2008 by the anonymous creator(s) 'Satoshi Nakamoto', Bitcoin, a digit
 #### Characteristics of Good Currency
 While there is no definitive rule, there are a handful of general qualities a currency system needs to address:
 
- 1. Acceptability
+**Acceptability**
   * Do others even accept the currency in the first place? Because buying groceries with Monopoly money won't cut it for some.
- 2. Durablility
+**Durablility**
   * The currency should not easily deteriorate vhw0peihv0 we
- 3. Portability
+**Portability**
   * Currency needs to be used so it can be easily and economically transported from one location to the next
- 4. Recognizable
+**Familiarity**
   * Users need a currency that is easily distinguishable, both in terms of separate currencies (U.S. dollar vs. British Pound) and other values of that currency (i.e. $1 vs $100)
- 5. Stable
+**Stability**
   * Currency should resist major fluctuations in value. Fluctuating standards of value changing your unit of measure.
- 6. Divisibility
+**Divisibility**
   * The currency needs to be easily broken down ($100 <---> $50 <---> $20 <---> $10 <---> $5 <---> $1 <---> $.25 <---> $.10 <---> $.05 <---> $.01) to allow for precise transaction amounts.
- 7. Homogeneity
+**Homogeneity**
   * All portions that make up the currency should be equal in value  
- 8. Difficult to Counterfeit
+**Difficult to Counterfeit**
   * Increasing currency supply will devalue present currency in the system.
 
 #### Hard & Soft Forks
