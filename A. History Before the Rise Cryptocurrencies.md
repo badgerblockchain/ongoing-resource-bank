@@ -3,7 +3,7 @@ Unfamiliar to many, there was discussion of implementing similar cryptographic-m
 <br>
 <br>
 ### David Chaum Digicash & [Blind Signatures](https://www.chaum.com/publications/Chaum-blind-signatures.PDF)
-  * [https://www.wired.com/1994/12/emoney/](https://www.wired.com/1994/12/emoney/)
+  * [emoney](https://www.wired.com/1994/12/emoney/)
   * [Cashing In Early](https://tedium.co/2017/11/27/digicash-ecash-bitcoin-history/)
   * [Chaumian E-Cash For Custodial Bitcoin Wallets And Services To Scale Bitcoin](https://medium.com/@nopara73/chaumian-e-cash-for-custodial-bitcoin-wallets-and-services-to-scale-bitcoin-8977d9a03064)
 ### Nick Szabo's [Bit Gold](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
