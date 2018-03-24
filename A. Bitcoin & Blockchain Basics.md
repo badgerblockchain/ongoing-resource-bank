@@ -38,5 +38,19 @@ Created in 2009 by the anonymous user(s) 'Satoshi Nakamoto' during the onslaught
 ## Mining
 
 ## Characteristics of Good Currency
+* While there is no definitive rule, there are 10 general concepts that a currency should look to address:
+
+ 1. Durablility
+  *
+ 2. Acceptability
+  *
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
+ 10.
 
 ## Hard & Soft Forks
