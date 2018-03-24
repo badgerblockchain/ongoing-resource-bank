@@ -18,6 +18,7 @@ Created in 2009 by the anonymous user(s) 'Satoshi Nakamoto' during the onslaught
 * Additional 
   * Characteristics of Good Currency
   * Hard & Soft Forks
+  * FAQs
 
 
 ## [Whitepaper](https://bitcoin.org/bitcoin.pdf)
@@ -36,7 +37,9 @@ Created in 2009 by the anonymous user(s) 'Satoshi Nakamoto' during the onslaught
 
 ## Mining
 
-## Characteristics of Good Currency
+
+## Additional
+#### Characteristics of Good Currency
 While there is no definitive rule, there are a handful of general qualities a currency system needs to address:
 
  1. Acceptability
@@ -56,9 +59,9 @@ While there is no definitive rule, there are a handful of general qualities a cu
  8. Difficult to Counterfeit
   * Increasing currency supply will devalue present currency in the system.
 
-## Hard & Soft Forks
+#### Hard & Soft Forks
 
-## FAQs:
+#### FAQs:
  * What is A Satoshi? 
    * One Satoshi (or 0.00000001 BTC) is the smallest fraction of a Bitcoin. It stems from the anonymous user Satoshi Nakamoto.
  * Why was 21 million BTC the limit to ever be created? 
