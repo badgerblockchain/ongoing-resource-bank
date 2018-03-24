@@ -21,9 +21,8 @@ Created in 2009 by the anonymous user(s) 'Satoshi Nakamoto' during the onslaught
 
 
 ## [Whitepaper](https://bitcoin.org/bitcoin.pdf)
-  * Blockgeek's [What is Bitcoin](https://blockgeeks.com/guides/what-is-bitcoin/)
-  * 3Blue1Brown's YouTube Video [Ever wonder how Bitcoin and other cryptocurrencies actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
   * Simply Explained's YouTube Video [How does a blockchain work - Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4) 
+  * 3Blue1Brown's YouTube Video [Ever wonder how Bitcoin and other cryptocurrencies actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
 ## Public Key/Private Key Cryptograpy
 
@@ -47,14 +46,19 @@ While there is no definitive rule, there are a handful of general qualities a cu
  3. Portability
   * Currency needs to be used so it can be easily and economically transported from one location to the next
  4. Recognizable
-  * 
+  * Users need a currency that is easily distinguishable, both in terms of separate currencies (U.S. dollar vs. British Pound) and other values of that currency (i.e. $1 vs $100)
  5. Stable
-  * 
+  * Currency should resist major fluctuations in value. Fluctuating standards of value changing your unit of measure.
  6. Divisibility
-  * 
+  * The currency needs to be easily broken down ($100 <---> $50 <---> $20 <---> $10 <---> $5 <---> $1 <---> $.25 <---> $.10 <---> $.05 <---> $.01) to allow for precise transaction amounts.
  7. Homogeneity
-  * 
- 8. Difficult to Counterfiet
-  *
+  * All portions that make up the currency should be equal in value  
+ 8. Difficult to Counterfeit
+  * Increasing currency supply will devalue present currency in the system.
 
 ## Hard & Soft Forks
+
+## FAQs:
+ * Q - What is A Satoshi? A - One Satoshi (or 0.00000001 BTC) is the smallest fraction of a Bitcoin. It stems from the anonymous user Satoshi Nakamoto.
+ * Q - Why was 21 million BTC the limit to ever be created? A - While there are small reasons, there is actually no good reasoning... The importance however is the fixed supply.
+ 
