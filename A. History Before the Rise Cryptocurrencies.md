@@ -7,7 +7,6 @@ Unfamiliar to many, there was discussion of implementing similar cryptographic-m
 ### Wei Dei's [B Money](http://www.weidai.com/bmoney.txt)
 ### Adam Back's [HashCash](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
 ### Hal Finney's [RPOW](https://cryptome.org/rpow.htm)
-  * [](http://fennetic.net/irc/finney.org/~hal/rpow/)
 ### Cypherpunks
   * [The Rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks/) by Jameson Lopp
 ### The Silk Road
