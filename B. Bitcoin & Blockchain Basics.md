@@ -60,7 +60,7 @@ While there is no definitive rule, there are a handful of general qualities a cu
 
 ## FAQs:
  * What is A Satoshi? 
-  ** One Satoshi (or 0.00000001 BTC) is the smallest fraction of a Bitcoin. It stems from the anonymous user Satoshi Nakamoto.
+   * One Satoshi (or 0.00000001 BTC) is the smallest fraction of a Bitcoin. It stems from the anonymous user Satoshi Nakamoto.
  * Why was 21 million BTC the limit to ever be created? 
-  ** While there are small reasons, there is actually no good reasoning... The importance however is the fixed supply.
+   * While there are small reasons, there is actually no good reasoning... The importance however is the fixed supply.
  
