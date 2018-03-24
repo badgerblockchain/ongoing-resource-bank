@@ -15,9 +15,9 @@ Created in 2009 by the anonymous user(s) 'Satoshi Nakamoto' during the onslaught
 
 * Mining
 
-* Characteristics of Good Currency
-
-* Hard & Soft Forks
+* Additional 
+  * Characteristics of Good Currency
+  * Hard & Soft Forks
 
 
 ## [Whitepaper](https://bitcoin.org/bitcoin.pdf)
