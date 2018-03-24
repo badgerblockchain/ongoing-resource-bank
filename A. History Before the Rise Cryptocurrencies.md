@@ -2,7 +2,7 @@
 Unfamiliar to many, there was discussion of implementing similar cryptographic-monetary schemes in the past. While none of them would ever get to the level of Bitcoin, they nonetheless left a critical impact on Satoshi (with many bits of these works being implemented into BTC). <br> Listed below are some of these early projects, as well as resources on the Cypherpunk movement, and two critical phases during Bitcoin's rise: the Silk Road and Mt. GOX.
 <br>
 <br>
-### David Chaum Digicash & Blind Signatures
+### David Chaum Digicash & [Blind Signatures](https://www.chaum.com/publications/Chaum-blind-signatures.PDF)
 ### Nick Szabo's [Bit Gold](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
 ### Wei Dei's [B Money](http://www.weidai.com/bmoney.txt)
 ### Adam Back's [HashCash](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
