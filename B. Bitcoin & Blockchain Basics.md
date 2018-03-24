@@ -59,6 +59,8 @@ While there is no definitive rule, there are a handful of general qualities a cu
 ## Hard & Soft Forks
 
 ## FAQs:
- * Q - What is A Satoshi? A - One Satoshi (or 0.00000001 BTC) is the smallest fraction of a Bitcoin. It stems from the anonymous user Satoshi Nakamoto.
- * Q - Why was 21 million BTC the limit to ever be created? A - While there are small reasons, there is actually no good reasoning... The importance however is the fixed supply.
+ * What is A Satoshi? 
+  * One Satoshi (or 0.00000001 BTC) is the smallest fraction of a Bitcoin. It stems from the anonymous user Satoshi Nakamoto.
+ * Why was 21 million BTC the limit to ever be created? 
+  * While there are small reasons, there is actually no good reasoning... The importance however is the fixed supply.
  
