@@ -1,5 +1,5 @@
 # Privacy and Anonymity
-If there is one thing you should know with Bitcoin is **IT IS NOT ANONYMOUS** rather it is Pseudonymous.
+**Bitcoin is PSEUDONYMOUS, it is not ANONYMOUS**...
 * KYC/AML
 * Linking and TGA
 * Fungibility
