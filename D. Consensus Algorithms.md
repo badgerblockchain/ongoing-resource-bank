@@ -9,12 +9,19 @@ Simply Explained's [Proof of Stake](https://www.youtube.com/watch?v=M3EFi_POhps)
 Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
 
 ### DPoS
+[What is Delegated Proof of Stake](https://themerkle.com/what-is-delegated-proof-of-stake/)
 
 ## Proof of ...
 ### Burn
+[What is proof of Burn](https://99bitcoins.com/what-is-proof-of-burn/)
+[Slimcoin](http://slimco.in/)
+
 ### Capacity
-### Space
+[What is Proof of Capacity](https://themerkle.com/what-is-proof-of-capacity/)
+
+
 ### Paxos and Raft
+
 
 ## DAGs (Directed Acyclic Graphs)
 ### Tangle
