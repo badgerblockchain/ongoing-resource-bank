@@ -21,6 +21,6 @@ If there is one thing you should know with Bitcoin is **IT IS NOT ANONYMOUS** ra
 * CoinJoin
 * TumbleBit
 * _MimbleWimble_
-   * [Does MimbleWimble enhance privacy?, Andreas Antonopoulos](https://www.youtube.com/watch?v=paOAgR3LuGI)
+   * [Does MimbleWimble enhance privacy?](https://www.youtube.com/watch?v=paOAgR3LuGI) by Andreas Antonopoulos
    * [Mimblewimble and Scriptless Scripts | Andrew Poelstra (Blockstream) | RWC 2018](https://www.youtube.com/watch?v=ovCBT1gyk9c&t=672s)
    * [MimbleWimble with Andrew Poelstra, SF Developers](https://www.youtube.com/watch?v=aHTRlbCaUyM&t=1847s)
