@@ -60,6 +60,7 @@ While there is no definitive rule, there are a handful of general qualities a cu
   + Increasing currency supply will devalue present currency in the system.
 
 #### Hard & Soft Forks
+ * [Difference between Hard Forks and Soft Forks](https://www.weusecoins.com/hard-fork-soft-fork-differences/)
 
 #### FAQs:
  * What is A Satoshi? 
