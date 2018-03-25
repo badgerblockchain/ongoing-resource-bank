@@ -13,7 +13,7 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 ## Proof of ...
 ### Burn
-[What is proof of Burn](https://99bitcoins.com/what-is-proof-of-burn/)
+[What is proof of Burn](https://99bitcoins.com/what-is-proof-of-burn/) <br>
 [Slimcoin](http://slimco.in/)
 
 ### Capacity
