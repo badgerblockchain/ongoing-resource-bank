@@ -57,12 +57,14 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 
 
 ## Additional Protocols
-* [RSK (rootstock)](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) - [rsk.co](https://www.rsk.co/)
-* [MimbleWimble](https://scalingbitcoin.org/papers/mimblewimble.txt)
+* [Algorand](https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf)
 * [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf) 
+* [HashGraph](https://www.swirlds.com/whitepapers/)
+* [MimbleWimble](https://scalingbitcoin.org/papers/mimblewimble.txt)
+* [Polkadot](https://polkadot.network/#vision)
+* [RSK (rootstock)](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) - [rsk.co](https://www.rsk.co/)
 * SNARKS
 * [STARKS](https://eprint.iacr.org/2018/046.pdf) 
 * [HashGraph](https://www.swirlds.com/whitepapers/)
-* [Algorand](https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf)
 * Tezos
 * Tendermint
