@@ -4,7 +4,7 @@ If there is one thing you should know with Bitcoin is **IT IS NOT ANONYMOUS** ra
 * Linking and TGA
 * Fungibility
 * [Monero](https://getmonero.org/resources/about/)
-    * [Fluffy Blocks](https://getmonero.org/resources/moneropedia/fluffyblocks.html)
+    * [Basic Monero Terminology](https://getmonero.org/resources/moneropedia/)
     * [Kovri](https://getmonero.org/resources/moneropedia/kovri.html)
       * [Video](https://www.youtube.com/watch?v=cxgbLI6IZGs)
     * [Pedersen Commitment](https://getmonero.org/resources/moneropedia/pedersen-commitment.html)
@@ -14,7 +14,6 @@ If there is one thing you should know with Bitcoin is **IT IS NOT ANONYMOUS** ra
       * [Video](https://www.youtube.com/watch?v=zHN_B_H_fCs)
     * [Stealth Address](https://getmonero.org/resources/moneropedia/stealthaddress.html)
       * [Video](https://www.youtube.com/watch?v=bWst278J8NA)
-    * [Tail Emmission](https://getmonero.org/resources/moneropedia/tail-emission.html)
 
 * [Zcash](https://z.cash/)
  * Zero-Knowledge Proofs
