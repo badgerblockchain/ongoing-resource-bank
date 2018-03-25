@@ -74,6 +74,7 @@ While there is no definitive rule, there are a handful of general qualities a cu
   <br>
   <br>
 #### Hard & Soft Forks
+ * [Guide to Forks - Hard and Soft](https://masterthecrypto.com/guide-to-forks-hard-fork-soft-fork/)
  * [Difference between Hard Forks and Soft Forks](https://www.weusecoins.com/hard-fork-soft-fork-differences/)
 
 #### FAQs:
