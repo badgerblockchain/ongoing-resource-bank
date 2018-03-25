@@ -18,6 +18,7 @@
 * [Zcash](https://z.cash/)
  * Zero-Knowledge Proofs
    * [Computerphile](https://www.youtube.com/watch?v=HUs1bH85X9I)
+ * [Zcash Ceremony](https://blog.z.cash/the-design-of-the-ceremony/)
 * CoinJoin
    * Dash
    * [CoinJoin: Combining Bitcoin Transactions to Obfuscate Trails and Increase Privacy](https://bitcoinmagazine.com/articles/coinjoin-combining-bitcoin-transactions-to-obfuscate-trails-and-increase-privacy-1465235087/)
