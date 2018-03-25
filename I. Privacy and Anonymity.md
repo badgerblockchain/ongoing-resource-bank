@@ -17,6 +17,7 @@ If there is one thing you should know with Bitcoin is **IT IS NOT ANONYMOUS** ra
 
 * [Zcash](https://z.cash/)
  * Zero-Knowledge Proofs
+   * [Computerphile](https://www.youtube.com/watch?v=HUs1bH85X9I)
 * CoinJoin
 * TumbleBit
 * _MimbleWimble_
