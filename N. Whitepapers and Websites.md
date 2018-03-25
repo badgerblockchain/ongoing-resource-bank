@@ -27,26 +27,26 @@
 | LISK | - | [lisk.io](https://lisk.io/) | Javascript + Sidechains |
 | Litecoin | - | [litecoin.org](https://litecoin.org/) | Speedy Bitcoin |
 | Loopring | [Whitepaper](https://github.com/Loopring/whitepaper/blob/master/en_whitepaper.pdf) | [loopring.org](https://loopring.org/en/index.html) | Decetralized Exchange |
-| Monacoin |  | [monacoin.org](https://monacoin.org/) | Japan's Dogecoin |
+| Monacoin | - | [monacoin.org](https://monacoin.org/) | Japan's Dogecoin |
 | Monero | - | [getmonero.org](https://getmonero.org/) | Privacy altoin |
-| Nano | [Whitepaper](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf) | [nano.org](https://nano.org/en) | |
-| NEM | [Whitepaper](https://nem.io/wp-content/themes/nem/files/NEM_techRef.pdf) | [nem.io](https://nem.io/) | |
+| Nano | [Whitepaper](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf) | [nano.org](https://nano.org/en) | Non-blockchain |
+| NEM | [Whitepaper](https://nem.io/wp-content/themes/nem/files/NEM_techRef.pdf) | [nem.io](https://nem.io/) | Enterprise + Large Multi-sig's|
 | NEO | [Whitepaper](http://docs.neo.org/en-us/) | [neo.org](https://neo.org/) | China's Ethereum |
-| OmiseGO | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/OmiseGO-Whitepaper.pdf) | [omisego.network](https://omisego.network/) | |
+| OmiseGO | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/OmiseGO-Whitepaper.pdf) | [omisego.network](https://omisego.network/) | Ethereum DEX + remittance for SE Asia |
 | Populous | [Whitepaper](https://populous.co/populous_whitepaper.pdf) | [qtum.org](https://populous.co/) | Invoice trading |
 | Qtum | [Whitepaper](https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf) | [qtum.org](https://qtum.org/en/) | Merging Bitcoin and Ethereum |
-| RChain | [Whitepaper](https://media.readthedocs.org/pdf/rchain-architecture/stable/rchain-architecture.pdf) | [rchain.coop](https://www.rchain.coop/) | . |
+| RChain | [Whitepaper](https://media.readthedocs.org/pdf/rchain-architecture/stable/rchain-architecture.pdf) | [rchain.coop](https://www.rchain.coop/) | CO-OP + rLang |
 | Ripple | [Whitepaper](https://ripple.com/files/ripple_solutions_guide.pdf) | [ripple.com](https://ripple.com/) | Bitcoin for Banks |
 | SALT | [Whitepaper](https://membership.saltlending.com/files/abstract.pdf) | [saltlending.com](https://www.saltlending.com/) | Cryptocurrency Backed Loans |
-| Siacoin | [Whitepaper](https://sia.tech/sia.pdf) | [sia.tech](https://sia.tech/) | |
-| Status | [Whitepaper](https://status.im/whitepaper.pdf) | [status.im](https://status.im/) | . |
-| Stratis | [Whitepaper](https://stratisplatform.com/files/Stratis_Whitepaper.pdf) | [stratisplatform.com](https://stratisplatform.com/) | . |
+| Siacoin | [Whitepaper](https://sia.tech/sia.pdf) | [sia.tech](https://sia.tech/) | Marketplace for file storage |
+| Status | [Whitepaper](https://status.im/whitepaper.pdf) | [status.im](https://status.im/) | Mobile Ethereum Client |
+| Stratis | [Whitepaper](https://stratisplatform.com/files/Stratis_Whitepaper.pdf) | [stratisplatform.com](https://stratisplatform.com/) | C# & .Net development |
 | Stellar | [Whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) | [stellar.org](https://www.stellar.org/) | Speedy Bitcoin for Banks |
 | Steem | [Whitepaper](https://steem.io/SteemWhitePaper.pdf) | [steem.com](https://steemit.com/) | Decentralized Social Media |
 | Storj | [Whitepaper](https://storj.io/storj.pdf) | [storj.io](https://storj.io/) | Distributed Cloud Storj |
 | TenX | [Whitepaper](https://www.tenx.tech/whitepaper/tenx_whitepaper_final.pdf) | [tenx.tech](https://www.tenx.tech/) | Credit Card for Cryptocurrencies |
 | Tether | [Whitepaper](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) | [tether.to](https://tether.to/) | Stable coin (1 USDS = 1 USD |
-| TRON | - | [tron.network](https://tron.network/en.html) |  |
+| TRON | - | [tron.network](https://tron.network/en.html) | worldwide free content entertainment |
 | VeChain | - | [vechain.org](https://www.vechain.org/) | Blockchain + Luxury Items |
 | Waltonchain | [Whitepaper](https://www.waltonchain.org/doc/Waltonchain-whitepaper_en_20180208.pdf) | [waltonchain.org](https://www.waltonchain.org/index.html) | IoT on Blockchain |
 | Waves | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | [wavesplatform.com](https://wavesplatform.com/company) | Consulting + Crowdsourcing |
