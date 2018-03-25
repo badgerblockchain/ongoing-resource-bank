@@ -27,10 +27,15 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 ### Elapsed Time
 
 
-### Paxos and Raft
-
-
 ## DAGs (Directed Acyclic Graphs)
 ### Tangle
 Simply Explained's [IOTA's Tangle](https://www.youtube.com/watch?v=CZxH1V_zoug)
 [The Tangle: an Illustrated Introduction](https://blog.iota.org/the-tangle-an-illustrated-introduction-4d5eae6fe8d4)
+
+## Additional
+
+### Paxos
+Computerphile's [Paxos Agreement](https://www.youtube.com/watch?v=s8JqcZtvnsM)
+
+### Raft
+[Understanding the Raft consensus algorithm](https://medium.freecodecamp.org/in-search-of-an-understandable-consensus-algorithm-a-summary-4bc294c97e0d)
