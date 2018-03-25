@@ -5,7 +5,7 @@ Khan Academy's [Proof of Work](https://www.youtube.com/watch?v=9V1bipPkCTU)
 [How PoW enables trustless consensus](https://keepingstock.net/explaining-blockchain-how-proof-of-work-enables-trustless-consensus-2abed27f0845)
 
 ## Proof of Stake
-Simply Explained's [Proof of Stake](https://www.youtube.com/watch?v=M3EFi_POhps)
+Simply Explained's [Proof of Stake](https://www.youtube.com/watch?v=M3EFi_POhps) <br>
 Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
 
 ### DPoS
