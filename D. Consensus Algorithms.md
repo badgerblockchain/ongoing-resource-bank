@@ -1,4 +1,6 @@
 # Consensus Algorithms
+An effecient CA is the backbone validation of a cryptographic protocol structure. In addition, it keeps adversaries from derailing and forking the chain. In following the laws of the CAP Theorem of a distributed system, CA's are what makes blockchains ... blockchains.
+
 ## Proof of Work
 Coin Telegraph's [Proof-of-Work, Explained](https://cointelegraph.com/explained/proof-of-work-explained) <br>
 Khan Academy's [Proof of Work](https://www.youtube.com/watch?v=9V1bipPkCTU)
@@ -18,6 +20,11 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 
 ### Capacity
 [What is Proof of Capacity](https://themerkle.com/what-is-proof-of-capacity/)
+
+### Activity
+
+
+### Elapsed Time
 
 
 ### Paxos and Raft
