@@ -12,6 +12,8 @@ Khan Academy's [Proof of Work](https://www.youtube.com/watch?v=9V1bipPkCTU)
 ## Proof of Stake
 Simply Explained's [Proof of Stake](https://www.youtube.com/watch?v=M3EFi_POhps) <br>
 Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
+[Nothing at Stake]()
+[LongRange Attack]()
 
 ### DPoS
 [What is Delegated Proof of Stake](https://themerkle.com/what-is-delegated-proof-of-stake/)
