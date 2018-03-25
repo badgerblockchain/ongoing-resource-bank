@@ -77,9 +77,11 @@ While there is no definitive rule, there are a handful of general qualities a cu
  * [Guide to Forks - Hard and Soft](https://masterthecrypto.com/guide-to-forks-hard-fork-soft-fork/)
  * [Difference between Hard Forks and Soft Forks](https://www.weusecoins.com/hard-fork-soft-fork-differences/)
 
-#### FAQs:
+#### FAQs...
  * What is A Satoshi? 
    * One Satoshi (or 0.00000001 BTC) is the smallest fraction of a Bitcoin. It stems from the anonymous user Satoshi Nakamoto.
  * Why was 21 million BTC the limit to ever be created? 
    * While there are small reasons, there is actually no good reasoning... The importance however is the fixed supply.
+ * When to use a blockchain
+   * [Blockstack Academy](https://www.youtube.com/watch?v=cXNhwFXwmR8&index=6&list=PLXS8JJHIn4nEv_LcXIaklH_QAZaDEVD8q&t=261s)
  
