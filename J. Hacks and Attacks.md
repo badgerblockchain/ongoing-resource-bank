@@ -10,3 +10,4 @@
  * Mt. Gox
    * [Mt. Gox Bitcoin Meltdown: What Went Wrong](https://www.darkreading.com/attacks-and-breaches/mt-gox-bitcoin-meltdown-what-went-wrong/d/d-id/1114091?)
    * [Cryptocurrency exchange Coincheck loses ¥58 billion in hacking attack](https://www.japantimes.co.jp/news/2018/01/27/national/cryptocurrency-exchange-coincheck-loses-58-billion-hacking-attack/#.Wrdc75Pwb-Y)
+ * Parity Hack
