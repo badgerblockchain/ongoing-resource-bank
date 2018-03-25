@@ -2,7 +2,7 @@
 ## Crypto's
 | Coin/Token    | Whitepaper/Docs    | Website | Several Word Description | G-Hub Repo
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| Bitcoin  | [![alt text][web]](https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
+| Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
 | Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [ethereum.org](https://www.ethereum.org/) | Programmable Money |
 | 0x | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) | [0xproject.com](https://0xproject.com/) | Decentralized Exchange |
 | Augur | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf) | [augur.net](http://www.augur.net/) | Decentralized Prediction Market |
@@ -60,6 +60,7 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 * [Algorand](https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf)
 * [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf) 
 * [HashGraph](https://www.swirlds.com/whitepapers/)
+* [Metronome](https://www.metronome.io/)
 * [MimbleWimble](https://scalingbitcoin.org/papers/mimblewimble.txt)
 * [Polkadot](https://polkadot.network/#vision)
 * [RSK (rootstock)](https://bravenewcoin.com/assets/Whitepapers/RootstockWhitePaperv9-Overview.pdf) - [rsk.co](https://www.rsk.co/)
