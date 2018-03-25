@@ -35,7 +35,7 @@ Blockchains don't scale (well)... So here are some solutions...
   * [An Intro to TrueBit](https://medium.com/@simondlr/an-intro-to-truebit-a-scalable-decentralized-computational-court-1475531400c3)
 
 ### Cross-Chain Atomic Swaps
-  * (What Are Atomic Swaps?)[https://blockonomi.com/atomic-swaps/] by Blockonomi
-  * ()[https://www.cryptocompare.com/coins/guides/what-are-atomic-swaps/] by Cryptocompare
+  * [What are Atomic Swaps?](https://blockonomi.com/atomic-swaps/) by Blockonomi
+  * [What are Atomic Swaps?](https://www.cryptocompare.com/coins/guides/what-are-atomic-swaps/) by Cryptocompare
 
 
