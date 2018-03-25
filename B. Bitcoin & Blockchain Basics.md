@@ -4,6 +4,7 @@ Created in 2008 by the anonymous creator(s) 'Satoshi Nakamoto', Bitcoin, a digit
 * [Whitepaper and High Level Overview](#whitepaper)
 
 * Public Key/Private Key Cryptograpy
+ * Computerphile's [Elliptic Curves](https://www.youtube.com/watch?v=NF1pwjL9-DE&t=1s)
 
 * Transactions
 
