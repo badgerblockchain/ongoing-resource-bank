@@ -10,8 +10,9 @@
 
 ## Layer 2
 ### Caespar
-### Lightning 
-### Payment Channels
+### Lightning & Payment Channels
+Simply Explained's [Lightning Network](https://www.youtube.com/watch?v=rrr_zPmEiME)
+
 ### Plasma
 ### Raiden
 ### Truebit
