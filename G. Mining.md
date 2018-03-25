@@ -1,1 +1,2 @@
 # Mining
+## Hash Function
