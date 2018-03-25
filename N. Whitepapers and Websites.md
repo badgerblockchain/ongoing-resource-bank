@@ -2,7 +2,7 @@
 ## Crypto's
 | Coin/Token    | Whitepaper/Docs    | Website | Several Word Description | G-Hub Repo
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| Bitcoin  | [Whitepaper](https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
+| Bitcoin  | [![alt text][web]](https://bitcoin.org/bitcoin.pdf) | - | Digital Gold |
 | Ethereum | [Yellowpaper](http://gavwood.com/paper.pdf) | [ethereum.org](https://www.ethereum.org/) | Programmable Money |
 | 0x | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/0x-white-paper.pdf) | [0xproject.com](https://0xproject.com/) | Decentralized Exchange |
 | Augur | [Whitepaper](https://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf) | [augur.net](http://www.augur.net/) | Decentralized Prediction Market |
