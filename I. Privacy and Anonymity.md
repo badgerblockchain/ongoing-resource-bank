@@ -1,5 +1,5 @@
 # Privacy and Anonymity
-**Bitcoin is PSEUDONYMOUS, it is not ANONYMOUS**...
+**Bitcoin is PSEUDONYMOUS, not ANONYMOUS**...
 * KYC/AML
 * Linking and TGA
 * Fungibility
