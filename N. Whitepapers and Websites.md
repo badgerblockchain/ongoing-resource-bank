@@ -11,7 +11,6 @@
 | Bitcoin Cash | - | [bitcoincash.org](https://www.bitcoincash.org/) | Bitcoin Fork w/ 8MB size blocks|
 | Bitcoin Private | [Whitepaper](https://btcprivate.org/whitepaper.pdf) | [btcprivate.org](https://btcprivate.org/) | Bitcoin Fork w/ zkSNARKS|
 | Bitcoin Gold | [Whitepaper](https://bitcoingold.org/wp-content/uploads/2017/10/BitcoinGold-Roadmap.pdf) | [bitcoingold.org](https://bitcoingold.org/) | Bitcoin + ASIC resistant + Equihash |
-| Bytecoin | [Whitepaper](https://bytecoin.org/resources/whitepaper.pdf) | [bytecoin.org](https://bytecoin.org/) | Additional Privacy Coin |
 | Cardano | [Whitepaper](https://whycardano.com/?__hstc=64163184.86ec57e5f877b33495b4d05f89235f77.1520832501492.1520832501492.1521597341669.2&__hssc=64163184.2.1521597341669&__hsfp=2043253899) |  [cardano.org](https://www.cardano.org/en/home/)| 3rd gen crypto + academics |
 | DASH | [Whitepaper](https://github.com/dashpay/dash/wiki/Whitepaper) | [dash.org](https://www.dash.org/) | Privacy coin + Masternodes |
 | Decred | [Whitepaper](https://decred.org/research/buterin2014.pdf) | [decred.org](https://www.decred.org/) | Bitcoin + alt gov't model |
