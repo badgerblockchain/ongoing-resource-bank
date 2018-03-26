@@ -22,8 +22,8 @@ Created in 2008 by the anonymous creator(s) 'Satoshi Nakamoto', Bitcoin, a digit
 
 
 ## [Whitepaper](https://bitcoin.org/bitcoin.pdf)
-  * (YouTube) Simply Explained's [How does a blockchain work - Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4) 
-  * (YouTube) 3Blue1Brown's [Ever wonder how Bitcoin and other cryptocurrencies actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+  * (YouTube) [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4) by Simply Explained
+  * (YouTube) [Ever wonder how Bitcoin and other cryptocurrencies actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) by 3Blue1Brown
 
 ## Public Key/Private Key Cryptograpy
   * [Elliptic Curves](https://www.youtube.com/watch?v=NF1pwjL9-DE&t=1s) by Computerphile
