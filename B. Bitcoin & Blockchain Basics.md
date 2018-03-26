@@ -85,4 +85,5 @@ While there is no definitive rule, there are a handful of general qualities a cu
    * While there are small reasons, there is actually no good reasoning... The importance however is the fixed supply.
  * When to use a blockchain
    * [Blockstack Academy](https://www.youtube.com/watch?v=cXNhwFXwmR8&index=6&list=PLXS8JJHIn4nEv_LcXIaklH_QAZaDEVD8q&t=261s)
+ * [When do you need a blockchain...](https://eprint.iacr.org/2017/375.pdf) and [TL;DR Medium Article](https://medium.com/wethinkideas/how-to-validate-if-your-ideas-need-a-blockchain-e1a4846d16fd)
  
