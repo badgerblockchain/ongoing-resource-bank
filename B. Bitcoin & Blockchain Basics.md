@@ -4,8 +4,6 @@ Created in 2008 by the anonymous creator(s) 'Satoshi Nakamoto', Bitcoin, a digit
 * [Whitepaper and High Level Overview](#whitepaper)
 
 * Public Key/Private Key Cryptograpy
-  * [Elliptic Curves](https://www.youtube.com/watch?v=NF1pwjL9-DE&t=1s) by Computerphile
-  * [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 
 * Transactions
 
@@ -28,6 +26,8 @@ Created in 2008 by the anonymous creator(s) 'Satoshi Nakamoto', Bitcoin, a digit
   * 3Blue1Brown's YouTube Video [Ever wonder how Bitcoin and other cryptocurrencies actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
 ## Public Key/Private Key Cryptograpy
+  * [Elliptic Curves](https://www.youtube.com/watch?v=NF1pwjL9-DE&t=1s) by Computerphile
+  * [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 
 ## Transactions
 
