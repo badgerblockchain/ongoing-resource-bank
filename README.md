@@ -1,3 +1,3 @@
 # Ongoing-Resource-Bank
 A list of publicly available resources for all your heart desires... 
-Please feel free to add material or make edits! Please keep in mind it is best to keep this list heavy with resources, but light at the same time (i.e. Goal is to hit on big topics but not overwhelm).
+Please feel free to add material or make edits! Remember, goal is to hit on the big topics but also not to overwhelm.
