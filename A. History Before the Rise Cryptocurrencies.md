@@ -1,5 +1,5 @@
 # History Before the Rise of Cryptocurrencies
-Before the dominance of Bitcoin, other attempts of implementing similar cryptographic-monetary schemes were made all the way back to the early 90s. While Digicash was the only one to be implemented, all works nonetheless left a critical impact on Satoshi. <br> Listed below are some of these early projects, a bit on the Cypherpunk movement, and two historical phases, the Silk Road and Mt. GOX, that were critical to making Bitcoin into what it is today.
+Before the dominance of Bitcoin, other attempts of implementing similar cryptographic-monetary schemes were made all the way back to the early 90s. While Digicash was the only one to be implemented, all works nonetheless left a critical impact on Satoshi. Listed below are some of these early projects, a bit on the Cypherpunk movement, and two historical phases, the Silk Road and Mt. GOX, that were critical to making Bitcoin into what it is today.
 <br>
 <br>
 ### David Chaum Digicash & [Blind Signatures](https://www.chaum.com/publications/Chaum-blind-signatures.PDF)
@@ -13,7 +13,7 @@ Before the dominance of Bitcoin, other attempts of implementing similar cryptogr
 ### Wei Dei's [B Money](http://www.weidai.com/bmoney.txt)
 ### Adam Back's [HashCash](http://nakamotoinstitute.org/static/docs/hashcash.pdf)
 ### Hal Finney's [RPOW](https://cryptome.org/rpow.htm)
-### Cypherpunks
+### The Cypherpunk Movement
   * [The Rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks/) by Jameson Lopp
 ### The Silk Road
   * [The Untold Story of Silk Road: Part 1](https://www.wired.com/2015/04/silk-road-1/)
