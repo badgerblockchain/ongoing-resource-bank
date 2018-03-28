@@ -5,7 +5,7 @@ Before the dominance of Bitcoin, other attempts of implementing similar cryptogr
 ### David Chaum Digicash & [Blind Signatures](https://www.chaum.com/publications/Chaum-blind-signatures.PDF)
   * [emoney](https://www.wired.com/1994/12/emoney/)
   * [Cashing In Early](https://tedium.co/2017/11/27/digicash-ecash-bitcoin-history/)
-  * [Chaumian E-Cash For Custodial Bitcoin Wallets And Services To Scale Bitcoin](https://medium.com/@nopara73/chaumian-e-cash-for-custodial-bitcoin-wallets-and-services-to-scale-bitcoin-8977d9a03064)
+  * [Chaumian E-Cash](https://medium.com/@nopara73/chaumian-e-cash-for-custodial-bitcoin-wallets-and-services-to-scale-bitcoin-8977d9a03064)
   * [An introduction to ecash](https://web.archive.org/web/19971009044558/http://digicash.com/publish/ecash_intro/ecash_intro.html)
   * [E-Cash Payment Protocols](http://www.enggjournals.com/ijcse/doc/IJCSE12-04-09-053.pdf)
   * [Stack Exchange: How does Chaum style e-cash work?](https://bitcoin.stackexchange.com/questions/9544/how-does-chaum-style-e-cash-work-all-the-wiki-links-are-broken)
