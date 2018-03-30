@@ -6,6 +6,7 @@
 * [Andrew Poelstra](https://www.weusecoins.com/andrew-poelstra/) - Blockstream Mathmatician, Recognized for work on MimbleWimble
 * [Brad Garlinghouse](https://twitter.com/bgarlinghouse) - CEO of Ripple
 * [Brian Armstrong](https://twitter.com/brian_armstrong?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - CEO of Coinbase
+* [Bram Cohen](https://twitter.com/bramcohen?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 * [Brock Pierce](https://twitter.com/brockpierce) - VC & Partner for Blockchain Capital, EOS, Tether, & Duck
 * [Cameron Winklevoss](https://twitter.com/winklevoss?lang=en) - Co-Founder of Gemini
 * [Changpeng Zhao](https://twitter.com/cz_binance?lang=en) - CEO of Binance
