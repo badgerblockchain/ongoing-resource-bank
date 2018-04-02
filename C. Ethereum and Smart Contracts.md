@@ -1,3 +1,5 @@
+While Bitcoin remains the poster child for much of blockchain technology, it wouldn't be until 2014 would a young Russian programmer, Vitalik Buterin, make a proposal to extend this concept through the addition of loops within a Turing-complete programming language and smart contracts that it would push boundaries even further. While his proposal was dismissed at first,  Ethereum would soon eventually transition the ecosystem into more than simply a censorship-resistant means of exchange but rather,  introduce a world where decentralization would work.
+
 # Ethereum and Smart Contracts
 * [Yellowpaper](http://gavwood.com/paper.pdf)
 * Smart Contracts
