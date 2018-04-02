@@ -15,8 +15,6 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 [Nothing at Stake](https://www.youtube.com/watch?v=pzIl3vmEytY)<br>
 [LongRange Attack](https://blog.ethereum.org/2014/05/15/long-range-attacks-the-serious-problem-with-adaptive-proof-of-work/)
 
-### DPoS
-[What is Delegated Proof of Stake](https://themerkle.com/what-is-delegated-proof-of-stake/)
 
 ## Proof of ...
 ### Burn
@@ -38,12 +36,16 @@ Vitalik Buterin's ["A Proof of Stake Design Philosophy"](https://medium.com/@Vit
 Simply Explained's [IOTA's Tangle](https://www.youtube.com/watch?v=CZxH1V_zoug)
 [The Tangle: an Illustrated Introduction](https://blog.iota.org/the-tangle-an-illustrated-introduction-4d5eae6fe8d4)
 
-## Additional
-
-[Federated Byzantinue Agreement]()
+## Voting-Based Algorithms
+### Federated Byzantinue Agreement
+* Ripple
+* Stellar
 
 ### Paxos
 Computerphile's [Paxos Agreement](https://www.youtube.com/watch?v=s8JqcZtvnsM)
 
 ### Raft
 [Understanding the Raft consensus algorithm](https://medium.freecodecamp.org/in-search-of-an-understandable-consensus-algorithm-a-summary-4bc294c97e0d)
+
+### Delegated Proof of Stake
+[What is Delegated Proof of Stake](https://themerkle.com/what-is-delegated-proof-of-stake/)
