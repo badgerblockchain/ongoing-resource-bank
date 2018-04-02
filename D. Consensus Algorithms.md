@@ -1,5 +1,5 @@
 # Consensus Algorithms
-An effecient CA is the backbone validation of a cryptographic protocol structure. In addition, it keeps adversaries from derailing and forking the chain. In following the laws of the CAP Theorem of a distributed system, CA's are what makes blockchains ... blockchains.
+While decentralized peer-to-peer networks are neat as they lack any central authority figure, it does pose the question of how anything gets done or how any decisions get made. For this, Consensus Algorithms provide the basic backbone protocol for network consensus. Additionally, efficient algorithms can keep adversaries from derailing and forking the chain. 
 
 ## Byzantine Fault Tolerance
 [Understanding Byzantine Fault Tolerance](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419)
