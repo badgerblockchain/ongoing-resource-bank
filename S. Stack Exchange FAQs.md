@@ -21,3 +21,5 @@
 ## Computer Sciences
 * [Distributed vs Parallel Computing](https://cs.stackexchange.com/questions/1580/distributed-vs-parallel-computing)
 * [Why are forks in the Blockchain eventually resolved?](https://cs.stackexchange.com/questions/85372/why-are-forks-in-the-blockchain-eventually-resolved)
+* [Is it possible for an encryption method to exist which is impossible to crack, even using quantum computers?](https://quantumcomputing.stackexchange.com/questions/3/is-it-possible-for-an-encryption-method-to-exist-which-is-impossible-to-crack-e)
+
