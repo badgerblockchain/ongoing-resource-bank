@@ -1,4 +1,4 @@
-# Whitepapers and Websites
+# Whitepapers, Websites, and Additional Protocols
 ## Crypto's
 | Coin/Token    | Whitepaper/Docs    | Website | Several Word Description | G-Hub Repo
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
@@ -57,6 +57,8 @@ Find even more cryptocurrencies at [coinmarkcap.com](https://coinmarketcap.com/)
 
 ## Additional Protocols
 * [Algorand](https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf)
+* [BigChainDB](https://www.bigchaindb.com/whitepaper/)
+* [Blockstack](https://blockstack.org/whitepaper.pdf)
 * [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf) 
 * [HashGraph](https://www.swirlds.com/whitepapers/)
 * [Metronome](https://www.metronome.io/)
