@@ -6,3 +6,5 @@ While the concept is not officially defined, cryptoeconomics is a notion of buil
 * (YouTube) [Vitalik Buterin: Cryptoeconomic Protocols In the Context of Wider Society](https://www.youtube.com/watch?v=S47iWiKKvLA)
 * (Medium) [Making Sense of 'Cryptoeconomics'](https://hackernoon.com/making-sense-of-cryptoeconomics-5edea77e4e8d)
 * (Medium) [The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics](https://medium.com/@cryptoeconomics/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4)
+* (Whitepaper) [On Bitcoin and Red Balloons](https://arxiv.org/pdf/1111.2626.pdf)
+* (Whitepaper) [Incentivizing Blockchain Forks via Whale Transactions](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final26.pdf)
