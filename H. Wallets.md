@@ -10,5 +10,5 @@ Wallets are a particular piece of software that allows users to store Bitcoin an
 ### Hierarchical Deterministic 
 ### Further Papers
 * [Hierarchical Deterministic Bitcoin Wallets Paper](http://fc15.ifca.ai/preproceedings/paper_15.pdf)
-* [The Bitcoin Brain Drain: A Short Paper on the Use and Abuse of Bitcoin Brain Wallets] (http://fc16.ifca.ai/preproceedings/36_Vasek.pdf)
+* [The Bitcoin Brain Drain: A Short Paper on the Use and Abuse of Bitcoin Brain Wallets](http://fc16.ifca.ai/preproceedings/36_Vasek.pdf)
 * [On Bitcoin and Red Balloons](https://arxiv.org/pdf/1111.2626.pdf)
