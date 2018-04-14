@@ -38,4 +38,6 @@ Blockchains don't scale (well)... So here are some solutions...
   * [What are Atomic Swaps?](https://blockonomi.com/atomic-swaps/) by Blockonomi
   * [What are Atomic Swaps?](https://www.cryptocompare.com/coins/guides/what-are-atomic-swaps/) by Cryptocompare
 
-
+### Papers
+* [Non-Interactive Proofs of Proof-of-Work](https://infoscience.epfl.ch/record/222858/files/199.pdf)
+* [The Honey Badger of BFT Protocols](https://infoscience.epfl.ch/record/222858/files/199.pdf)
