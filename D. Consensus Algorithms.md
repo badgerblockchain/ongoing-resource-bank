@@ -38,8 +38,8 @@ Simply Explained's [IOTA's Tangle](https://www.youtube.com/watch?v=CZxH1V_zoug)
 
 ## Voting-Based Algorithms
 ### Federated Byzantinue Agreement
-* Ripple
-* Stellar
+* [Ripple](https://ripple.com/files/ripple_consensus_whitepaper.pdf)
+* [Stellar](https://www.stellar.org/developers/guides/concepts/scp.html)
 
 ### Paxos
 Computerphile's [Paxos Agreement](https://www.youtube.com/watch?v=s8JqcZtvnsM)
