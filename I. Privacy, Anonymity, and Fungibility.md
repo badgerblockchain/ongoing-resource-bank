@@ -3,6 +3,7 @@
 * KYC/AML
 * Linking and TGA
 * Fungibility
+   * [Towards Risk Scoring of Bitcoin Transactions](http://fc14.ifca.ai/bitcoin/papers/bitcoin14_submission_15.pdf)
 * [Monero](https://getmonero.org/resources/about/)
     * [Basic Monero Terminology](https://getmonero.org/resources/moneropedia/)
     * [Kovri](https://getmonero.org/resources/moneropedia/kovri.html)
