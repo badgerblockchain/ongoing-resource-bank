@@ -4,9 +4,11 @@ While Bitcoin remains the poster child for much of blockchain technology, it wou
 * [Yellowpaper](http://gavwood.com/paper.pdf)
 * Smart Contracts
   * Simply Explained's [Smart Contracts](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
+  * [Automated Verification of Electrum Wallet](http://fc16.ifca.ai/bitcoin/papers/TVR16.pdf)
 * EVM
 * Gas
 * Solidity
+ * Viper
 * [Web3](https://medium.com/@matteozago/why-the-web-3-0-matters-and-you-should-know-about-it-a5851d63c949)
    * [Blockstack](https://blockstack.org/) - Network for decentralized applications
    * [IPFS](https://ipfs.io/) - P2P hypermedia protocol
