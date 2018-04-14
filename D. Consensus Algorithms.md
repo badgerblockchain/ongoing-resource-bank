@@ -49,3 +49,10 @@ Computerphile's [Paxos Agreement](https://www.youtube.com/watch?v=s8JqcZtvnsM)
 
 ### Delegated Proof of Stake
 [What is Delegated Proof of Stake](https://themerkle.com/what-is-delegated-proof-of-stake/)
+
+## Others
+### Cuckoo Cycle 
+[Cuckoo Cycle](http://fc15.ifca.ai/preproceedings/bitcoin/paper_12.pdf)
+
+### Honey Badger
+[The Honey Badger of BFT Protocols](https://infoscience.epfl.ch/record/222858/files/199.pdf)
